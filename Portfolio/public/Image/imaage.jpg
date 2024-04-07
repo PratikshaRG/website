@@ -1,0 +1,1006 @@
+<!doctype html><html><head><meta
+charset="utf-8" /><meta
+http-equiv="X-UA-Compatible" content="IE=Edge" /><meta
+name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /><meta
+name="theme-color" content="#ffffff" /><link
+rel="canonical" href="https://digitalmarketinginstitute.com/blog/ai-in-digital-marketing-the-ultimate-guide" /> <script src="https://cdn.optimizely.com/js/21168220171.js"></script>  <script 
+        strategy="lazyOnload"
+        type="text/plain"
+        data-cookiescript="accepted"
+        data-cookiecategory="functionality">window.$crisp=[];window.CRISP_WEBSITE_ID="5cec56f0-412e-4ded-9cb7-1ffb1ea8c34b";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script> <title>AI in Digital Marketing - The Ultimate Guide | Digital Marketing Institute</title><meta
+name='description' content='AI has evolved from a fantastical notion to a game-changer for digital marketers today. It's become the secret engine driving personalized ads, predictive analytics, customer experiences, and much more. Find out more about AI and how it can be used effectively in your digital marketing. ' /><meta
+property="og:title" content="AI in Digital Marketing - The Ultimate Guide | Digital Marketing Institute" /><meta
+property="og:url" content="https://digitalmarketinginstitute.com/blog/ai-in-digital-marketing-the-ultimate-guide" /><meta
+property="og:site_name" content="Digital Marketing Institute" /><meta
+property="og:description" content="AI has evolved from a fantastical notion to a game-changer for digital marketers today. It's become the secret engine driving personalized ads, predictive analytics, customer experiences, and much more. Find out more about AI and how it can be used effectively in your digital marketing. " /><meta
+property="og:image" content="https://mydmi.imgix.net/Blog_Card_2.png?crop=edges&fit=crop&fm=jpg&h=1260&ixlib=php-3.3.1&q=40&w=2400&s=ea3ad059687e1cfe332b21d2323fd261" /><link
+rel="icon" href="/assets-hub/images/icons/favicon-32x32.png" /><link
+rel="preload" href="/assets/fonts/gtamerica/expanded-black/gt-america-expanded-black.woff2?js49ro" as="font" type="font/woff2" crossorigin="anonymous"><link
+rel="preload" href="/assets/fonts/aeonik/regular/aeonik-regular.woff2?js49ro" as="font" type="font/woff2" crossorigin="anonymous"><link
+rel="preload" href="/assets/fonts/aeonik/medium/aeonik-medium.woff2?js49ro" as="font" type="font/woff2" crossorigin="anonymous"><link
+rel="preload" href="/assets/fonts/aeonik/bold/aeonik-bold.woff2?js49ro" as="font" type="font/woff2" crossorigin="anonymous"><link
+rel="preload" href="/assets/fonts/aeonik/regular-italic/aeonik-regular-italic.woff2?js49ro" as="font" type="font/woff2" crossorigin="anonymous"><link
+rel="apple-touch-icon" href="/assets-hub/images/icons/apple-touch-icon.png" /><link
+rel="apple-touch-icon" sizes="57x57" href="/assets-hub/images/icons/apple-touch-icon-57x57.png" /><link
+rel="apple-touch-icon" sizes="72x72" href="/assets-hub/images/icons/apple-touch-icon-72x72.png" /><link
+rel="apple-touch-icon" sizes="114x114" href="/assets-hub/images/icons/apple-touch-icon-114x114.png" /><link
+rel="apple-touch-icon" sizes="144x144" href="/assets-hub/images/icons/apple-touch-icon-144x144.png" /> <script>woopra_on = "yes";
+			site_domain = 'digitalmarketinginstitute.com';</script>  <script
+        id="rudderstack-sdk-js"
+        strategy="lazyOnload"
+        type="text/plain"
+        data-cookiescript="accepted"
+        data-cookiecategory="performance">!function(){var e=window.rudderanalytics=window.rudderanalytics||[];e.methods=["load","page","track","identify","alias","group","ready","reset","getAnonymousId","setAnonymousId","getUserId","getUserTraits","getGroupId","getGroupTraits","startSession","endSession"],e.factory=function(t){return function(){e.push([t].concat(Array.prototype.slice.call(arguments)))}};for(var t=0;t<e.methods.length;t++){var r=e.methods[t];e[r]=e.factory(r)}e.loadJS=function(e,t){var r=document.createElement("script");r.type="text/javascript",r.async=!0,r.src="https://cdn.rudderlabs.com/v1.1/rudder-analytics.min.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(r,a)},e.loadJS(),
+        e.load("2L8tbwVxoVVLGOfJLhxWtTjvWWA","https://digitalmarz.dataplane.rudderstack.com",{
+            setCookieDomain: ".digitalmarketinginstitute.com",
+        }),
+        e.page()}();</script> 
+
+ <script
+		type="text/plain"
+		data-cookiescript="accepted"
+		data-cookiecategory="targeting">!function(f,b,e,v,n,t,s)
+	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	  n.queue=[];t=b.createElement(e);t.async=!0;
+	  t.src=v;s=b.getElementsByTagName(e)[0];
+	  s.parentNode.insertBefore(t,s)}(window, document,'script',
+	  'https://connect.facebook.net/en_US/fbevents.js');
+	  fbq('init', '103770680017158');
+	  fbq('track', 'PageView');</script> <noscript><img
+height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=103770680017158&ev=PageView&noscript=1"
+/></noscript> <script async src="https://cdn.jsdelivr.net/npm/algoliasearch@4.0.0/dist/algoliasearch-lite.umd.js" integrity="sha256-MfeKq2Aw9VAkaE9Caes2NOxQf6vUa8Av0JqcUXUGkd0=" crossorigin="anonymous"></script> <script async src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.0.0/dist/instantsearch.production.min.js" integrity="sha256-6S7q0JJs/Kx4kb/fv0oMjS855QTz5Rc2hh9AkIUjUsk=" crossorigin="anonymous"></script> <style>/* Blog Detail Critical Css */
+@media print,screen and (min-width:40em){.reveal{right:auto;left:auto;margin:0 auto}}html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}header,nav{display:block}h1{font-size:2em;margin:.67em 0}figure{display:block}figure{margin:1em 40px}a{background-color:transparent;-webkit-text-decoration-skip:objects}img{border-style:none}svg:not(:root){overflow:hidden}button,input{font-family:sans-serif;font-size:100%;line-height:1.15;margin:0}button{overflow:visible}button{text-transform:none}button,html [type=button]{-webkit-appearance:button}[type=button]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}input{overflow:visible}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}html{box-sizing:border-box;font-size:100%}*,::after,::before{box-sizing:inherit}body{margin:0;padding:0;background:#f5f8fa;font-family:AeonikRegular,sans-serif;font-weight:400;line-height:1.6;color:#657786;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}img{display:inline-block;vertical-align:middle;max-width:100%;height:auto;-ms-interpolation-mode:bicubic}button{padding:0;-webkit-appearance:none;-moz-appearance:none;appearance:none;border:0;border-radius:3px;background:0 0;line-height:1}button,input{font-family:inherit}.small-12{width:100%}@media print,screen and (min-width:40em){.medium-1{width:8.33333%}.medium-4{width:33.33333%}.medium-8{width:66.66667%}.medium-10{width:83.33333%}}@media print,screen and (min-width:64em){.large-3{width:25%}.large-6{width:50%}.large-9{width:75%}.large-10{width:83.33333%}.large-12{width:100%}}.grid-container{padding-right:.625rem;padding-left:.625rem;max-width:75rem;margin:0 auto}@media print,screen and (min-width:40em){.grid-container{padding-right:.9375rem;padding-left:.9375rem}}.grid-x{display:flex;flex-flow:row wrap}.cell{flex:0 0 auto;min-height:0;min-width:0;width:100%}.grid-x>.small-12{flex-basis:auto}@media print,screen and (min-width:40em){.grid-x>.medium-1,.grid-x>.medium-10,.grid-x>.medium-4,.grid-x>.medium-8{flex-basis:auto}}@media print,screen and (min-width:64em){.grid-x>.large-10,.grid-x>.large-12,.grid-x>.large-3,.grid-x>.large-6,.grid-x>.large-9{flex-basis:auto}}.grid-x>.small-12{width:100%}@media print,screen and (min-width:40em){.grid-x>.medium-1{width:8.33333%}.grid-x>.medium-4{width:33.33333%}.grid-x>.medium-8{width:66.66667%}.grid-x>.medium-10{width:83.33333%}}@media print,screen and (min-width:64em){.grid-x>.large-3{width:25%}.grid-x>.large-6{width:50%}.grid-x>.large-9{width:75%}.grid-x>.large-10{width:83.33333%}.grid-x>.large-12{width:100%}}.grid-margin-y:not(.grid-y)>.cell{height:auto}.grid-margin-x{margin-left:-.625rem;margin-right:-.625rem}@media print,screen and (min-width:40em){.grid-margin-x{margin-left:-.9375rem;margin-right:-.9375rem}}.grid-margin-x>.cell{width:calc(100% - 1.25rem);margin-left:.625rem;margin-right:.625rem}@media print,screen and (min-width:40em){.grid-margin-x>.cell{width:calc(100% - 1.875rem);margin-left:.9375rem;margin-right:.9375rem}}.grid-margin-x>.small-12{width:calc(100% - 1.25rem)}@media print,screen and (min-width:40em){.grid-margin-x>.small-12{width:calc(100% - 1.875rem)}.grid-margin-x>.medium-4{width:calc(33.33333% - 1.875rem)}.grid-margin-x>.medium-8{width:calc(66.66667% - 1.875rem)}}@media print,screen and (min-width:64em){.grid-margin-x>.large-3{width:calc(25% - 1.875rem)}.grid-margin-x>.large-6{width:calc(50% - 1.875rem)}.grid-margin-x>.large-9{width:calc(75% - 1.875rem)}}.grid-padding-x>.cell{padding-right:.625rem;padding-left:.625rem}@media print,screen and (min-width:40em){.grid-padding-x>.cell{padding-right:.9375rem;padding-left:.9375rem}}.grid-margin-y{margin-top:-.625rem;margin-bottom:-.625rem}@media print,screen and (min-width:40em){.grid-margin-y{margin-top:-.9375rem;margin-bottom:-.9375rem}}.grid-margin-y>.cell{height:calc(100% - 1.25rem);margin-top:.625rem;margin-bottom:.625rem}@media print,screen and (min-width:40em){.grid-margin-y>.cell{height:calc(100% - 1.875rem);margin-top:.9375rem;margin-bottom:.9375rem}}.grid-margin-y>.small-12{height:calc(100% - 1.25rem)}@media print,screen and (min-width:40em){.grid-margin-y>.small-12{height:calc(100% - 1.875rem)}.grid-margin-y>.medium-4{height:calc(33.33333% - 1.875rem)}.grid-margin-y>.medium-8{height:calc(66.66667% - 1.875rem)}}@media print,screen and (min-width:64em){.grid-margin-y>.large-6{height:calc(50% - 1.875rem)}}.grid-margin-y{margin-top:-.625rem;margin-bottom:-.625rem}@media print,screen and (min-width:40em){.grid-margin-y{margin-top:-.9375rem;margin-bottom:-.9375rem}}.grid-margin-y>.cell{height:calc(100% - 1.25rem);margin-top:.625rem;margin-bottom:.625rem}@media print,screen and (min-width:40em){.grid-margin-y>.cell{height:calc(100% - 1.875rem);margin-top:.9375rem;margin-bottom:.9375rem}}.grid-margin-y>.small-12{height:calc(100% - 1.25rem)}@media print,screen and (min-width:40em){.grid-margin-y>.small-12{height:calc(100% - 1.875rem)}.grid-margin-y>.medium-4{height:calc(33.33333% - 1.875rem)}.grid-margin-y>.medium-8{height:calc(66.66667% - 1.875rem)}}@media print,screen and (min-width:64em){.grid-margin-y>.large-6{height:calc(50% - 1.875rem)}}div,form,h1,h3,h4,li,p,ul{margin:0;padding:0}p{margin-bottom:1rem;font-size:inherit;line-height:1.6;text-rendering:optimizeLegibility}h1,h3,h4{font-family:AeonikBold,sans-serif;font-style:normal;font-weight:400;color:#3c4858;text-rendering:optimizeLegibility}h1{font-size:1.5rem;line-height:1.4;margin-top:0;margin-bottom:.5rem}h3{font-size:1.3125rem;line-height:1.4;margin-top:0;margin-bottom:.5rem}h4{font-size:1.25rem;line-height:1.4;margin-top:0;margin-bottom:.5rem}@media print,screen and (min-width:40em){h1{font-size:2.25rem}h3{font-size:1.625rem}h4{font-size:1.375rem}}a{line-height:inherit;color:#18c698;text-decoration:none}a img{border:0}ul{margin-bottom:1rem;list-style-position:outside;line-height:1.6}li{font-size:inherit}ul{margin-left:1.25rem;list-style-type:disc}ul ul{margin-left:1.25rem;margin-bottom:0}figure{margin:0}.text-left{text-align:left}.text-right{text-align:right}.text-center{text-align:center}.button{display:inline-block;vertical-align:middle;margin:0 0 1rem 0;font-family:inherit;padding:1.25rem 1.875rem;-webkit-appearance:none;border:1px solid transparent;border-radius:.1875rem;font-size:.9rem;line-height:1;text-align:center;background-color:#18c698;color:#fff}[type=text]{display:block;box-sizing:border-box;width:100%;height:3.0875rem;margin:0 0 1.75rem;padding:.875rem;border:1px solid #e6ecf0;border-radius:3px;background-color:#fff;box-shadow:none;font-family:AeonikMedium,sans-serif;font-size:.875rem;font-weight:400;line-height:1.6;color:#3c4858;-webkit-appearance:none;-moz-appearance:none;appearance:none}input::-moz-placeholder{color:#aab8c2}input:-ms-input-placeholder{color:#aab8c2}[type=button]{-webkit-appearance:none;-moz-appearance:none;appearance:none;border-radius:3px}.close-button{position:absolute;color:#3c4858}.close-button{right:1rem;top:.5rem;font-size:2em;line-height:1}.reveal-overlay{position:fixed;top:0;right:0;bottom:0;left:0;z-index:1005;display:none;background-color:rgba(20,23,26,.45);overflow-y:scroll}.reveal{z-index:1006;-webkit-backface-visibility:hidden;backface-visibility:hidden;display:none;padding:1rem;border:1px solid #657786;border-radius:3px;background-color:#fff;position:relative;top:100px;margin-right:auto;margin-left:auto;overflow-y:auto}@media print,screen and (min-width:40em){.reveal{min-height:0}}.reveal>:last-child{margin-bottom:0}@media print,screen and (min-width:40em){.reveal{width:600px;max-width:75rem}}@media screen and (max-width:29.9375em){.reveal{top:0;left:0;width:100%;max-width:none;height:100%;height:100vh;min-height:100vh;margin-left:0;border:0;border-radius:0}}.hide{display:none!important}@media screen and (max-width:29.9375em){.hide-for-small-only{display:none!important}}@media print,screen and (min-width:52em){.hide-for-mediumlarge{display:none!important}}@media screen and (max-width:51.9375em){.show-for-mediumlarge{display:none!important}}.align-center{justify-content:center}.align-self-stretch{align-self:stretch}.infinite{-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite}.slow{-webkit-animation-duration:750ms!important;animation-duration:750ms!important}@font-face{font-family:GTAmericaBlack;src:url("../assets/fonts/gtamerica/expanded-black/gt-america-expanded-black.eot?js49ro");src:url("../assets/fonts/gtamerica/expanded-black/gt-america-expanded-black.eot?js49ro#iefix") format("embedded-opentype"),url("../assets/fonts/gtamerica/expanded-black/gt-america-expanded-black.woff2?js49ro#gtamerica") format("woff2"),url("../assets/fonts/gtamerica/expanded-black/gt-america-expanded-black.woff?js49ro") format("woff");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:AeonikRegular;src:url("../assets/fonts/aeonik/regular/aeonik-regular.eot?js49ro");src:url("../assets/fonts/aeonik/regular/aeonik-regular.eot?js49ro#iefix") format("embedded-opentype"),url("../assets/fonts/aeonik/regular/aeonik-regular.woff2?js49ro#aeonikreg") format("woff2"),url("../assets/fonts/aeonik/regular/aeonik-regular.woff?js49ro") format("woff");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:AeonikMedium;src:url("../assets/fonts/aeonik/medium/aeonik-medium.eot?js49ro");src:url("../assets/fonts/aeonik/medium/aeonik-medium.eot?js49ro#iefix") format("embedded-opentype"),url("../assets/fonts/aeonik/medium/aeonik-medium.woff2?js49ro#aeonikmedium") format("woff2"),url("../assets/fonts/aeonik/medium/aeonik-medium.woff?js49ro") format("woff");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:AeonikBold;src:url("../assets/fonts/aeonik/bold/aeonik-bold.eot?js49ro");src:url("../assets/fonts/aeonik/bold/aeonik-bold.eot?js49ro#iefix") format("embedded-opentype"),url("../assets/fonts/aeonik/bold/aeonik-bold.woff2?js49ro#aeonikbold") format("woff2"),url("../assets/fonts/aeonik/bold/aeonik-bold.woff?js49ro") format("woff");font-weight:400;font-style:normal;font-display:swap}h1{line-height:1.5}.font-size-3{font-size:2.625rem;line-height:3.25rem}@media screen and (max-width:51.9375em){.font-size-3{font-size:2.25rem;line-height:2.5rem}}@media screen and (max-width:29.9375em){.font-size-3{font-size:1.625rem;line-height:2rem}}.font-size-4{font-size:2.25rem;line-height:2.375rem}@media screen and (max-width:51.9375em){.font-size-4{font-size:2rem;line-height:2.125rem}}@media screen and (max-width:29.9375em){.font-size-4{font-size:1.625rem;line-height:1.75rem}}.font-size-5{font-size:1.625rem;line-height:2rem}@media screen and (max-width:51.9375em){.font-size-5{font-size:1.375rem;line-height:1.75rem}}@media screen and (max-width:29.9375em){.font-size-5{font-size:1.0625rem;line-height:1.4375rem}}.font-size-6{font-size:1.125rem;line-height:1.625rem}@media screen and (max-width:51.9375em){.font-size-6{font-size:1rem;line-height:1.25rem}}@media screen and (max-width:29.9375em){.font-size-6{font-size:.9375rem;line-height:1.125rem}}.content{font-size:1.25rem;line-height:1.7}@media screen and (max-width:51.9375em){.content{font-size:1.125rem;line-height:1.6}}@media screen and (max-width:29.9375em){.content{font-size:1rem;line-height:1.4}}.content>p{line-height:2.125rem}@media screen and (max-width:51.9375em){.content>p{line-height:2rem}}@media screen and (max-width:29.9375em){.content>p{line-height:1.75rem}}[type=text]{padding:.9375rem 1.25rem;height:auto;margin-bottom:.625rem}.button{font-family:AeonikBold,sans-serif;text-transform:capitalize}.txt_richnavy{color:#13134d}.font-aeonik-bold{font-family:AeonikBold,sans-serif}.lh120{line-height:120%}.m0{margin-top:0;margin-bottom:0}.mt10{margin-top:10px}.mt30{margin-top:30px}.mb0{margin-bottom:0}.mb10{margin-bottom:10px}.pt10{padding-top:10px}.pt40{padding-top:40px}.pb10{padding-bottom:10px}.rad2{border-radius:6px}.shadow{box-shadow:0 1px 3px 0 rgba(0,0,0,.1),0 1px 2px 0 rgba(0,0,0,.04)}@-webkit-keyframes pulse{from{transform:scale3d(1,1,1)}50%{transform:scale3d(1.05,1.05,1.05)}to{transform:scale3d(1,1,1)}}@keyframes pulse{from{transform:scale3d(1,1,1)}50%{transform:scale3d(1.05,1.05,1.05)}to{transform:scale3d(1,1,1)}}.pulse{-webkit-animation-name:pulse;animation-name:pulse}@-webkit-keyframes fadeIn{from{opacity:0}to{opacity:1}}@keyframes fadeIn{from{opacity:0}to{opacity:1}}.fadeIn{-webkit-animation-name:fadeIn;animation-name:fadeIn}.animated{-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both}.animated.infinite{-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite}.animated.delay-2s{-webkit-animation-delay:2s;animation-delay:2s}.animated.slow{-webkit-animation-duration:2s;animation-duration:2s}@media (prefers-reduced-motion){.animated{-webkit-animation:unset!important;animation:unset!important}}.alert{max-width:420px}.alert{position:fixed;bottom:1.25rem;left:1.25rem;padding:1.25rem;background:#fff;border:1px solid #e6ecf0;border-radius:3px;text-align:left;box-shadow:0 5px 5px rgba(0,0,0,.02);border:none;box-shadow:10px 20px 30px rgba(0,0,0,.08)}@media screen and (max-width:29.9375em){.alert{width:calc(100% - 40px);right:1.25rem}}.alert div,.alert figure{float:left}.alert figure{width:10%}.alert figure img{max-width:40px;margin:auto;display:block;line-height:40px;position:relative;bottom:-8px}.alert div{width:90%;padding-left:1.25rem;padding-right:1.25rem}.alert div p{margin:0}.alert div p:nth-child(1){font-weight:700;color:#3c4858;font-size:.875rem}.alert div p:nth-child(2){font-size:.8125rem;line-height:1.3}.alert div span.alert-link{color:#18c698;border-bottom:2px solid #18c698}.alert.full-alert-link-wrap{padding:0}.alert a.full-alert-link{color:#657786;padding:1.25rem;display:block;overflow:hidden}.alert a.close-alert{position:absolute;top:.625rem;right:.9375rem}.alert a.close-alert svg{width:10px;height:10px}[data-css-tooltip]{position:relative}[data-css-tooltip]:after,[data-css-tooltip]:before{position:absolute;visibility:hidden;opacity:0;transform:translate3d(0,0,0)}[data-css-tooltip]:before{z-index:1001;border:8px solid transparent;background:0 0;content:""}[data-css-tooltip]:after{z-index:1000;padding:.625rem .9375rem;width:180px;background-color:#21416a;color:#fff;content:attr(data-css-tooltip);font-size:.75rem;line-height:1.3;text-align:center;font-family:AeonikMedium,sans-serif;border-radius:3px;white-space:nowrap;-ms-text-overflow:ellipsis;text-overflow:ellipsis;overflow:hidden;text-transform:none}[data-css-tooltip].tooltip-bottom:after,[data-css-tooltip].tooltip-bottom:before{top:100%;bottom:auto;left:50%}[data-css-tooltip].tooltip-bottom:before{margin-top:-16px;margin-bottom:0;border-top-color:transparent;border-bottom-color:#21416a}[data-css-tooltip].tooltip-bottom:before{margin-left:-8px}[data-css-tooltip].tooltip-bottom:after{margin-left:-90px}.sk-wave{margin:0;width:50px;height:40px;text-align:center;font-size:10px}.sk-wave .sk-rect{background-color:#18c698;height:100%;width:6px;display:inline-block;-webkit-animation:sk-waveStretchDelay 1.2s infinite ease-in-out;animation:sk-waveStretchDelay 1.2s infinite ease-in-out}.sk-wave .sk-rect1{-webkit-animation-delay:-1.2s;animation-delay:-1.2s}.sk-wave .sk-rect2{-webkit-animation-delay:-1.1s;animation-delay:-1.1s}.sk-wave .sk-rect3{-webkit-animation-delay:-1s;animation-delay:-1s}.sk-wave .sk-rect4{-webkit-animation-delay:-.9s;animation-delay:-.9s}.sk-wave .sk-rect5{-webkit-animation-delay:-.8s;animation-delay:-.8s}@-webkit-keyframes sk-waveStretchDelay{0%,100%,40%{transform:scaleY(.4)}20%{transform:scaleY(1)}}@keyframes sk-waveStretchDelay{0%,100%,40%{transform:scaleY(.4)}20%{transform:scaleY(1)}}.page-wrap{background:#fff;margin:1.25rem;padding-bottom:3.125rem}@media screen and (max-width:29.9375em){.page-wrap{margin:0}}.page-wrap.ghost{background:0 0}.page-wrap.full{margin:0}svg{width:24px;height:24px}svg path,svg use{fill:#E6ECF0}div.full-modal{position:fixed;top:0;right:0;bottom:0;left:0;width:100%;height:100vh;z-index:10000;display:none;overflow:scroll}[data-css-tooltip]:after{white-space:normal}.reveal-overlay .reveal{height:auto!important;min-height:auto!important;top:50%!important}@media screen and (max-width:51.9375em){.share-via [data-css-tooltip].tooltip-bottom:after{margin-left:auto;right:0}}body{background:#fff}#hub{position:relative}.un{display:inline-block}.un::after{content:'';width:0;height:2px;margin-top:4px;display:block;background-image:linear-gradient(to right,#baff00,#9cfd46,#80f968,#67f583,#53ef99)}.course-adverts{display:flex}@media screen and (min-width:52em) and (max-width:63.9375em){.course-adverts{flex-direction:column}}@media screen and (min-width:40em) and (max-width:51.9375em){.course-adverts{flex-direction:column}}@media screen and (max-width:29.9375em){.course-adverts{display:none}}.course-adverts--item{margin-bottom:20px;margin-left:20px;width:320px;max-width:100%}.course-adverts--item:first-child{margin-left:0}@media screen and (min-width:52em) and (max-width:63.9375em){.course-adverts--item{margin-left:0}}@media screen and (min-width:40em) and (max-width:51.9375em){.course-adverts--item{margin-left:0}}@media screen and (max-width:29.9375em){.course-adverts--item{display:none}}.share-via{color:#13134d;font-size:.875rem;line-height:1.0625rem;font-family:AeonikMedium,sans-serif;list-style:none;padding-left:0;margin-left:0}.share-via.right{float:right}@media screen and (max-width:51.9375em){.share-via [data-css-tooltip].tooltip-bottom:after{margin-left:auto;right:0}}.share-via li{float:left;margin-right:7px}.share-via li.intro{padding-top:8px}.share-via li:last-child{margin-right:0}.share-via li a{background:#fff;border:1px solid #ebebf2;border-radius:100px;width:36px;height:36px;display:inline-block;padding:5px;text-align:center}.share-via li a svg{max-width:15px;max-height:15px;margin-top:4px}.share-via li a svg path{fill:#8A8AAD}.share-via li a.alt1{background:0 0;padding:0}.share-via li a.alt1 svg{max-width:20px;max-height:20px;margin-top:8px}.share-via li a.alt1 svg path{fill:#fff;stroke:#8A8AAD}.share-via.vertical{float:none;padding-top:7px;position:sticky;top:125px}@media screen and (max-width:51.9375em){.share-via.vertical{display:none!important}}.share-via.vertical li{float:none;margin-right:0;display:block;margin-bottom:14px}#hub{position:relative}.rel_articles-wrap{position:sticky;top:125px}.rel_articles-wrap .hub-related-card{overflow:hidden;margin-bottom:10px;display:none}.rel_articles-wrap .hub-related-card:nth-of-type(1){display:block}.rel_articles-wrap .hub-related-card:nth-of-type(2){display:block}.rel_articles-wrap .hub-related-card:nth-of-type(3){display:block}.rel_articles-wrap .hub-related-card:nth-of-type(4){display:block}.rel_articles-wrap .hub-related-card:nth-of-type(5){display:block}.rel_articles-wrap .hub-related-card figure{width:90px;height:60px;margin-right:10px;margin-bottom:10px;float:left;border:1px solid #ccc}.rel_articles-wrap .hub-related-card figure a{width:88px;height:58px;display:block;border:3px solid #fff}.rel_articles-wrap .hub-related-card h3{font-size:.875rem;line-height:120%}.rel_articles-wrap .hub-related-card h3 a{color:#000659;display:block}.rel_articles-wrap .hub-related-card h3 a span{font-size:.8125rem;color:#6426db}.rel_lessons-wrap{position:sticky;top:125px;padding-top:10px;border:2px solid #6426db;border-top:3px solid #6426db}.rel_lessons-wrap .rel_lessons-heading{font-family:GTAmericaBlack,sans-serif;font-size:1rem;line-height:1.25rem;text-transform:uppercase;color:#13134d;padding:5px 1em;width:100%;max-width:300px;margin-bottom:0}.rel_lessons-wrap .rel_lessons-links{list-style:none;margin-left:0;padding-left:0;margin-bottom:0}.rel_lessons-wrap .rel_lessons-links li{margin-left:10px;margin-right:10px;margin-bottom:0;padding-left:40px;border-bottom:1px solid #ebebf2;font-size:.9375rem;line-height:1.25rem;color:#13134d;padding-top:0;padding-bottom:0;font-family:AeonikBold,sans-serif;position:relative}.rel_lessons-wrap .rel_lessons-links li:last-child{border-bottom:0}.rel_lessons-wrap .rel_lessons-links li a{color:#13134d;display:inline-block;padding:12px 10px 18px 0}.rel_lessons-wrap .rel_lessons-links li a span.cat{color:#58587a;font-size:.75rem;font-family:AeonikMedium,sans-serif}.rel_lessons-wrap .rel_lessons-links li a svg{position:absolute;left:10px;top:24px;width:20px;height:20px}.rel_lessons-wrap .rel_lessons-links li a svg path{fill:#6426DB}.rel_lessons-wrap .rel_lessons-more{background:#6426db;text-align:center;color:#fff;font-family:AeonikBold,sans-serif;display:block;padding:10px 0}.header_container{max-width:1300px;margin:0 auto}.header_wrap{position:sticky;top:0;z-index:100;margin-bottom:0;background:#fff;padding-left:10px;padding-right:10px}header[role=hub]{height:62px;padding-bottom:2px;background:#f1f1f6;background-image:linear-gradient(to right,#fff 0,#fff 5%,#f1f1f6 10%,#f1f1f6 90%,#fff 95%);position:relative;max-width:1380px;margin:0 auto}header[role=hub] .inner-flex{display:inline-flex;margin-left:auto}header[role=hub]>div{background:#fff;height:60px;display:flex}@media screen and (max-width:29.9375em){header[role=hub]>div{justify-content:space-between}}header[role=hub] .logo{position:relative;width:130px;min-width:130px;z-index:1001;top:12px;left:-5px;margin-right:20px;margin-left:0}@media screen and (max-width:29.9375em){header[role=hub] .logo{margin-right:0}}header[role=hub] .logo img{content:url("/assets-hub/images/logo.png")}header[role=hub] nav.main{text-align:left;z-index:999;font-size:.9375rem}header[role=hub] nav.main ul{padding:0;margin:0;width:180px;justify-content:space-between}@media screen and (max-width:74.9375em){header[role=hub] nav.main ul{position:relative}}@media screen and (max-width:51.9375em){header[role=hub] nav.main ul{display:none}}header[role=hub] nav.main ul li{list-style-type:none;display:inline-block;margin-right:10px}header[role=hub] nav.main ul li a{color:#000659;font-family:AeonikMedium,sans-serif;border-bottom:2px solid transparent;padding:20px 2px;line-height:58px;position:relative}header[role=hub] nav.main ul li a.active{color:#13134d;font-family:AeonikBold,sans-serif}header[role=hub] nav.main ul li a.active::after{content:"";width:100%;height:3px;border-radius:0;position:absolute;bottom:-3px;left:0;background-image:linear-gradient(to right,#baff00,#9cfd46,#80f968,#67f583,#53ef99)}header[role=hub] .main-search{width:100%;padding-top:11px;position:relative}@media only screen and (max-width:560px){header[role=hub] .main-search{display:none}}header[role=hub] .main-search .search-icon{position:absolute;top:17px;left:14px}header[role=hub] .main-search .search-icon svg{width:12px;height:12px}header[role=hub] .main-search .search-icon svg use{fill:#8B89B0}header[role=hub] .main-search form{width:100%}header[role=hub] .main-search form input{background:#ebebf3;border:1px solid #ebebf3;border-radius:40px;height:38px;width:100%;padding-left:34px;font-family:AeonikMedium,sans-serif;font-size:.875rem;color:#13134d}header[role=hub] .main-search form input::-moz-placeholder{color:#8b89b0}header[role=hub] .main-search form input:-ms-input-placeholder{color:#8b89b0}header[role=hub] .main-menu{display:none;margin-left:20px;align-items:center;padding-top:5px}@media screen and (max-width:51.9375em){header[role=hub] .main-menu{display:flex}}header[role=hub] .main-menu #open-menu svg use{fill:#8A8AAD}header[role=sub]{height:45px;background:#fff;position:relative;font-size:.875rem;padding-left:50px;padding-right:50px}@media screen and (max-width:63.9375em){header[role=sub]{padding-right:0}}header[role=sub] nav.sub{width:100%;text-align:center;z-index:999;overflow:visible;padding-bottom:0}@media screen and (max-width:51.9375em){header[role=sub] nav.sub{overflow-x:scroll}}header[role=sub] nav.sub::-webkit-scrollbar{display:none}header[role=sub] nav.sub>ul{padding:0;margin:0;white-space:nowrap}@media screen and (max-width:74.9375em){header[role=sub] nav.sub>ul{position:relative}}header[role=sub] nav.sub>ul li{list-style-type:none;display:inline-block;margin-left:8px;margin-right:8px}header[role=sub] nav.sub>ul li a{color:#58587a;font-family:AeonikMedium,sans-serif;border-bottom:2px solid transparent;padding:10px 2px;line-height:45px;position:relative}header[role=sub] nav.sub>ul li a svg{height:16px;margin-bottom:-2px}header[role=sub] nav.sub>ul li a svg path{fill:#8A8AAD}header[role=sub] nav.sub>ul li a.active{color:#13134d;font-family:AeonikBold,sans-serif}header[role=sub] nav.sub>ul li a.active::after{content:"";width:100%;height:2px;border-radius:0;position:absolute;bottom:-4px;left:0;background:#13134d}header[role=sub] nav.sub .more-dropdown{position:relative}header[role=sub] nav.sub .more-dropdown a svg{width:14px;padding:4px 0 0 4px}header[role=sub] nav.sub .more-dropdown a svg use{fill:#8A8AAD}header[role=sub] nav.sub .more-dropdown ul{visibility:hidden;position:absolute;left:-165%;background-color:#fff;padding:15px;border-radius:10px;opacity:0;margin-top:10px}@media screen and (max-width:51.9375em){header[role=sub] nav.sub .more-dropdown ul{display:flex;padding:0;left:-570%}}header[role=sub] nav.sub .more-dropdown li{display:block;text-align:left}header[role=hub2]{height:88px;background:#fff;border-bottom:1px solid #e6ecf0;position:relative;margin-bottom:1.25rem}@media screen and (min-width:64em){header[role=hub2]{margin-bottom:2.5rem}}header[role=hub2] div.logo{width:30px;position:absolute;z-index:1001;left:0}.mobile-nav header[role=hub2] div.logo a img{width:30px;margin:25px}header[role=hub2] nav{width:100%;text-align:center;z-index:999}header[role=hub2] div.user-settings{width:22%;position:absolute;z-index:1001;right:0;padding:0 1.25rem}@media screen and (max-width:74.9375em){header[role=hub2] div.user-settings{width:25%}}header[role=hub2] div.user-settings>ul{padding:0;margin:0;float:right}header[role=hub2] div.user-settings>ul>li{list-style-type:none;display:inline-block}@media screen and (max-width:51.9375em){header[role=hub2] div.user-settings>ul>li{display:none}}header[role=hub2] div.user-settings>ul>li>a{padding:8px 8px;line-height:77px;font-weight:600;height:85px;display:inline-block;position:relative}header[role=hub2] div.user-settings>ul li.mobile-menu{display:none}header[role=hub2] div.user-settings>ul li.mobile-menu a svg use{fill:#657786}@media screen and (max-width:51.9375em){header[role=hub2] div.user-settings>ul li.mobile-menu{display:inline-block}}div.mobile-nav{background:#283e5c;text-align:center;-webkit-animation-duration:.4s;animation-duration:.4s}div.mobile-nav header{background:0 0;border-bottom:none;text-align:left;margin-bottom:0}div.mobile-nav header div ul li a#close-menu svg use{fill:#AAB8C2}div.mobile-nav .mobile-wrapper{position:relative;height:calc(100vh - 88px)}div.mobile-nav .mobile-wrapper div.mobile-nav{height:calc(100% - 200px);width:100%;display:table}div.mobile-nav .mobile-wrapper div.mobile-nav ul{margin:0;padding:0 10%;display:table-cell;vertical-align:middle}div.mobile-nav .mobile-wrapper div.mobile-nav ul li{list-style-type:none;display:block;margin-bottom:.625rem}div.mobile-nav .mobile-wrapper div.mobile-nav ul li a{display:block;color:#fff;font-weight:600;font-size:1.125rem;border-radius:3px;padding:.625rem .625rem;opacity:0}div.mobile-nav .mobile-wrapper div.mobile-nav ul li a svg{width:16px;height:16px;margin-right:5px}div.profile{position:relative}div.profile>a{position:relative;top:-7px;padding:8px 16px;line-height:54px;font-weight:600;height:66px;display:inline-block;position:relative}div.profile>a span.img-border-gradient{background-image:linear-gradient(to right,#baff00,#9cfd46,#80f968,#67f583,#53ef99);display:inline-block;border-radius:100px;max-width:42px;max-height:42px;line-height:100%}div.profile>a span.img-border-gradient img{border-radius:100px;max-width:38px;max-height:38px;border:3px solid #fff;margin:1px}#search_results_wrapper{position:fixed;background:#fff;z-index:1000;top:107px;right:0;bottom:0;left:0;overflow:scroll}#js_hide_search_results{margin-top:2rem;color:#000659;text-align:center;display:inline-block;line-height:1}#js_hide_search_results span{font-size:.9rem;display:block}#search_stats{color:#000659}#search_term{color:#6426db;margin-right:40px}.search-spacer{display:flex;justify-content:space-between;flex-wrap:wrap;align-items:center}#main-search-input{width:100%}#search_container{position:relative}#search_loading_overlay{position:absolute;top:0;right:0;left:0;bottom:0;background:rgba(255,255,255,.8);width:100%;height:100%;z-index:100}#search_loading_overlay .sk-wave{position:absolute;right:50%;top:200px}div#loading-mkto-overlay{display:none;position:fixed;top:0;left:0;width:100%;height:100%;z-index:200000001;background:#000326!important;opacity:.9!important}.hub-content-wrap .text-gate{position:relative;display:none}.hub-content-wrap .text-gate .gate-gradient{position:absolute;background:linear-gradient(rgba(255,255,255,0),#fff);display:block;height:400px;left:0;top:-400px;right:0;z-index:2}#gate-cta{color:#13134d;display:none;position:relative;text-align:center;background:linear-gradient(to right,#b1fb27,#53ef99);padding:10px;font-family:AeonikMedium,sans-serif;font-weight:700;margin-bottom:120px}@media screen and (max-width:29.9375em){#gate-cta{margin-bottom:60px}}#gate-cta .content{background:#fff;height:100%;display:flex;flex-direction:column;justify-content:center;align-items:center;padding:2em}@media screen and (max-width:29.9375em){#gate-cta .content{padding:1em}}#gate-cta .content .heading{max-width:860px;font-size:1.15em}@media screen and (max-width:29.9375em){#gate-cta .content .heading{font-size:.8em}}#gate-cta .content .body{font-size:2.1em;line-height:initial;max-width:900px}@media screen and (max-width:29.9375em){#gate-cta .content .body{font-size:1.1em}}#gtd-info-bar{display:none;position:sticky;bottom:0;margin-top:40px;background:linear-gradient(to right,#b1fb27,#53ef99);padding:6px;font-family:AeonikMedium,sans-serif;font-weight:700}@media screen and (max-width:29.9375em){#gtd-info-bar{position:relative;margin-top:0}}#gtd-info-bar .gtd-info-content{background:#fff;height:100%;display:flex;justify-content:space-between;align-items:center;padding:22px}@media screen and (max-width:29.9375em){#gtd-info-bar .gtd-info-content{flex-direction:column;padding:22px 12px}}#gtd-info-bar .gtd-info-content .gtd-info-text{max-width:76%;font-size:18px;padding:0 22px 0 0}@media screen and (max-width:29.9375em){#gtd-info-bar .gtd-info-content .gtd-info-text{max-width:100%;text-align:center;padding:0 12px 22px}}#gtd-info-bar .gtd-info-content .gtd-info-text .info-val{color:#000659}@media screen and (max-width:29.9375em){#gtd-info-bar .gtd-info-content .gtd-info-text .info-static{display:none}}#gtd-info-bar .gtd-info-content .button{padding:1.25rem 1rem;margin:0}.hub-detail{padding-top:40px}@media screen and (max-width:51.9375em){.hub-detail{padding-top:20px}}.hub-detail--info{display:flex;justify-content:space-between;flex-wrap:wrap;align-items:center;margin-bottom:10px}.hub-detail p.date{font-family:AeonikBold,sans-serif;font-size:1rem;line-height:1.1875rem;margin-bottom:0;color:#58587a;margin-right:40px}.hub-detail h1{color:#13134d}.hub-detail div.categories{margin:10px 40px 10px 0}.hub-detail div.categories ul{list-style:none;padding-left:0;margin-left:0;margin-left:0;font-size:.9375rem;line-height:1.125rem;font-family:AeonikMedium,sans-serif}.hub-detail div.categories ul li{float:left}.hub-detail div.categories ul li::after{content:'•';margin-left:10px;margin-right:10px}.hub-detail div.categories ul li:last-child::after{display:none}.hub-detail div.categories ul li a{color:#58587a}.hub-detail .back-to-listings{font-size:.9375rem;line-height:1.125rem;font-family:AeonikBold,sans-serif}.hub-detail .back-to-listings a{color:#000659}.hub-content{font-size:1.125rem;line-height:2.125rem;color:#58587a}@media screen and (max-width:51.9375em){.hub-content{font-size:1.0625rem;line-height:2rem}}@media screen and (max-width:29.9375em){.hub-content{font-size:1rem;line-height:1.875rem}}.hub-content p{line-height:2.125rem}@media screen and (max-width:51.9375em){.hub-content p{line-height:2rem}}@media screen and (max-width:29.9375em){.hub-content p{line-height:1.875rem}}#cpd_lightbox .reveal{max-width:543px;max-height:255px;border-radius:8px;padding:32px;border:0;top:220px;box-shadow:0 6px 12px 0 rgba(0,0,0,.12)}@media print,screen and (max-width:40em){#cpd_lightbox .reveal{position:relative!important;min-height:auto!important}}#cpd_lightbox h1{font-family:AeonikBold,sans-serif;color:#000659;text-align:left}#cpd_lightbox p{max-width:475px;font-size:16px;font-family:AeonikMedium,sans-serif;color:#58587a;text-align:left}#cpd_lightbox p a{font-family:AeonikMedium,sans-serif;color:#18c698;text-decoration:underline;font-weight:700}#cpd_lightbox .button{margin:0!important}#cpd_lightbox a.button{font-family:AeonikBold,sans-serif;font-size:16px;height:56px}</style> <script async src="https://cdn.cdp.digitalmarketinginstitute.com/pcdp_1.0.js"></script> <script>window.pcdpLayer = window.pcdpLayer || [];
+		window.pcdp = function(){pcdpLayer.push(arguments)};</script> <script id="ms_clarity_script"
+        type="text/plain"
+        data-cookiescript="accepted"
+        data-cookiecategory="performance">(function (c, l, a, r, i, t, y) {
+    c[a] =
+      c[a] ||
+      function () {
+        (c[a].q = c[a].q || []).push(arguments);
+      };
+    t = l.createElement(r);
+    t.async = 1;
+    t.src = "https://www.clarity.ms/tag/" + i;
+    y = l.getElementsByTagName(r)[0];
+    y.parentNode.insertBefore(t, y);
+  })(window, document, "clarity", "script", "g4urdsbr20");</script>  <script 
+    type="text/plain"
+    id="aip-floodlight-tag"
+    data-cookiescript="accepted"
+    data-cookiecategory="targeting"
+    async src="https://www.googletagmanager.com/gtag/js?id=DC-13375083"></script> <script type="text/javascript">window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'DC-13375083');</script></head><body
+id="inner" class="hub ">
+<a
+name="top" id="top"></a><div
+id="hub" class="header_wrap_padding">
+
+
+<div
+class="hub-banner-wrapper banner-chat-on"><div
+class="hub_close_x x-chat-on" onclick="closeBanner()"><svg
+RoLe="img" aria-label="Close Icon"><use
+xlink:href="/assets-hub/icons/symbol-defs.svg?v=0.8.9#icon-close"></use></svg>
+</div><div
+id="hub-banner-content" class="hub-banner">
+Browse our range of digital marketing courses which are designed and validated by the digital industry.
+<a
+href="/students/courses">View Courses</a></div></div> <script>const closeBanner = () => {document.querySelector(".hub-banner-wrapper").classList.add("hide")}</script><div
+class="header_wrap">
+<header
+role="hub" class="hub"><div
+class="wrap"><div
+class="logo inner-flex">
+<a
+href="/" class="link-home">
+<img
+src="" alt="Digital Marketing Institute Logo">
+</a></div>
+<nav
+class="main inner-flex"><ul><li>
+<a
+href="/resources/dashboard" data-logged-in-url="courses">Courses</a></li><li>
+<a
+href="/resources" class="active">Resources</a></li></ul>
+</nav><div
+class="main-search inner-flex">
+<span
+class="search-icon"><svg
+RoLe="img" aria-label="Search Icon"><use
+xlink:href="/assets-hub/icons/symbol-defs.svg?v=0.8.9#icon-search"></use></svg></span><div
+id="main-search-input"><form
+action="">
+<input
+type="text" placeholder="Keyword search..." onkeypress="return event.keyCode != 13;"></form></div><div
+id="hidden-search-input" style="display: none"></div></div><div
+class="inner-flex text-right" data-ajax-call="hub_get_user_menu"><div
+class="profile">
+<a
+href="https://my.digitalmarketinginstitute.com/auth/login">
+<span
+class="img-border-gradient"><img
+src="/assets-hub/icons/SVG/icon-user.svg" data-logged-in-replace="avatar" data-logged-in-replace-attr="src"></span>
+</a></div></div><div
+class="main-menu main-menu--hub">
+<a
+href="#" id="open-menu"><svg
+RoLe="img" aria-label="Menu Icon"><use
+xlink:href="/assets-hub/icons/symbol-defs.svg?v=0.8.9#icon-menu"></use></svg></a></div><div
+id="js_current_url" class="hidden" data-uri="/blog/ai-in-digital-marketing-the-ultimate-guide" data-url="https://my.digitalmarketinginstitute.com/blog/ai-in-digital-marketing-the-ultimate-guide"></div></div></header>
+<header
+role="sub"><div
+class="grid-x header_container"><div
+class="cell large-12">
+<nav
+class="sub"><ul><li>
+<a
+href="/resources"><svg
+version="1.1" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" RoLe="img" aria-label="Trending Icon"><path
+fill="#000" d="M352 0l-288 288h176l-80 224 288-288h-176z"></path></svg> Trending</a></li><li>
+<a
+href="/blog" class="active">Articles</a></li><li>
+<a
+href="/resources/lessons">Micro Lessons</a></li><li>
+<a
+href="/resources/skills-test">Skills Test</a></li><li>
+<a
+href="/resources/toolkits">Toolkits</a></li><li>
+<a
+href="/resources/webinars">Webinars</a></li><li>
+<a
+href="/resources/ebooks">eBooks</a></li><li>
+<a
+href="/resources/premium">Premium</a></li><li
+class="more-dropdown show-for-mediumlarge">
+<a>More<span><svg
+RoLe="img" aria-label="Dropdown Icon"><use
+xlink:href="/assets-hub/icons/symbol-defs.svg?v=0.8.9#icon-dropdown"></use></svg>
+</span></a><ul
+class="shadow"><li>
+<a
+href="/resources/podcasts">Podcasts</a></li><li>
+<a
+href="/resources/videos">Videos</a></li><li>
+<a
+href="/resources/glossary">Glossary</a></li><li>
+<a
+href="/resources/presentations">Presentations</a></li><li>
+<a
+href="/resources/case-studies">Case Studies</a></li></ul></li></ul>
+</nav></div></div>
+</header></div>
+
+ <script>gPage = 0; // disabled
+        gType = 'article';</script> <script>cpd_points_available = 0;</script> <div
+class="page-wrap hub-detail"><div
+class="grid-container"><div
+class="grid-x grid-margin-x align-left"><div
+class="cell small-12 grid-x align-right"><p
+class="back-to-listings m0 pb10">
+<a
+href="/blog" class="un">← Back to Articles</a></p></div><div
+id="blog-header" class="cell small-12 grid-x mb20"><div
+class="cell small-12 large-5 grid-x align-center-middle"><div
+class="ell small-12"><p
+class="date">Nov 21, 2023</p></div><div
+class="cell small-12 text-left"><h1 class="font-size-3">AI in Digital Marketing - The Ultimate Guide</h1></div><div
+class="cell small-12 text-left"><div
+class="hub-detail--info"><div
+class="categories"><ul><li>
+<a
+href="/blog" class="un">Articles</a></li><li><a
+href="/resources/digital-marketing" class="un">Digital Marketing</a></li></ul></div></div><div
+class="hub-detail--author"><div
+class="author-name"><p>by <strong
+class="txt_navy">Digital Marketing Institute</strong></div></div><div
+id="hub-detail--cta" class="hub-detail--cta bg_gray_light grid-x rad2 mt40 hide"><div
+class="cell small-5"><p
+id="hub-detail--cta-text" class="txt_gray_dark font-aeonik-med lh120 font-size-8 m0"></p></div><div
+id="hub-detail--cta-link" class="cell small-7"></div></div></div></div><div
+class="cell medium-1"></div><div
+class="cell small-12 large-6 main-image"><div
+class="blog-main-image" style="background-image: url('https://mydmi.imgix.net/Blog_Header-1.png?crop=faces%2Ccenter&fit=crop&ixlib=php-3.3.1&s=70a0d0648c5300c983da157d63fdb6ff');"></div></div></div><div
+class="hub-content-wrap cell large-12 mt10" data-business-line=""><div
+class="grid-x grid-margin-x"><div
+class="cell medium-8 large-9"><div
+id="logged-in-content" class="content-no-image" logged-in-content="blog/ai-in-digital-marketing-the-ultimate-guide"><div
+class="cell large-12 mt30"><div
+class="grid-x grid-padding-x"><div
+class="medium-1 side-actions align-self-stretch"><ul
+class="share-via vertical"><li><a
+href="#" class="alt1 tooltip-bottom" data-toggle-favourite="2831361" data-css-tooltip="You need to be logged in to use this feature"><svg
+width="24px" height="23px" viewBox="0 0 24 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" RoLe="img" aria-label="Like Icon">
+<g
+stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g
+transform="translate(-143.000000, -999.000000)" fill="#E6ECF0" fill-rule="nonzero" stroke="#8A8AAD" stroke-width="2"><g
+transform="translate(135.000000, 973.000000)"><g
+transform="translate(0.000000, 16.000000)"><g><g
+transform="translate(9.000000, 11.000000)">
+<path
+d="M21.7391304,6.08695652 C21.7391304,12.6282609 11.7863478,19.426087 11.3626087,19.7178261 L10.8669565,20 L10.3729565,19.6564348 C9.9493913,19.3615652 0,12.553913 0,6.08695652 C0,2.44608696 2.2713913,0 5.65217391,0 C8.02165217,0 9.89921739,1.76086957 10.8734783,2.91217391 C11.8549565,1.7626087 13.7421739,0 16.0869565,0 C19.4677391,0 21.7391304,2.44608696 21.7391304,6.08695652 Z" id="Shape"></path>
+</g></g></g></g></g></g>
+</svg></a></li><li><a
+href="#" class="alt2 tooltip-bottom" data-toggle-reading="2831361" data-css-tooltip="You need to be logged in to use this feature" ><svg
+width="16px" height="22px" viewBox="0 0 16 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" RoLe="img" aria-label="Bookmark Icon">
+<g
+stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g
+transform="translate(-147.000000, -1046.000000)" fill="#E6ECF0" fill-rule="nonzero" stroke="#8A8AAD" stroke-width="2"><g
+transform="translate(135.000000, 973.000000)"><g
+transform="translate(0.000000, 16.000000)"><g
+transform="translate(0.000000, 48.000000)"><g
+transform="translate(13.000000, 10.000000)">
+<path
+d="M12.5000012,0 L1.50000122,0 C0.671575064,0 1.21772064e-06,0.537257989 1.21772064e-06,1.19999931 L1.21772064e-06,19.5991087 C-0.000292689237,19.7057229 0.052626839,19.8080199 0.147011765,19.8832875 C0.241396691,19.9585551 0.369436008,20.0005644 0.502702253,20 C0.621350053,20 0.735930153,19.9653791 0.82530213,19.9029485 L7.00000122,15.1999912 L13.1744974,19.9027885 C13.2638735,19.9653385 13.3785482,20 13.4972973,20 C13.6305809,20.0005645 13.7586355,19.9585443 13.8530233,19.8832593 C13.9474112,19.8079744 14.0003189,19.7056568 14.0000012,19.5990287 L14.0000012,1.19999931 C14.0000012,0.537257989 13.3284245,0 12.5000012,0 Z"></path>
+</g></g></g></g></g></g>
+</svg></a></li><li><a
+href="http://www.facebook.com/share.php?u=https://digitalmarketinginstitute.com/blog/ai-in-digital-marketing-the-ultimate-guide" onclick="return fbs_click()" target="_blank"><svg
+version="1.1" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" RoLe="img" aria-label="Facebook Icon">
+<path
+d="M304 96h80v-96h-80c-61.757 0-112 50.243-112 112v48h-64v96h64v256h96v-256h80l16-96h-96v-48c0-8.673 7.327-16 16-16z"></path>
+</svg>
+</a></li><li><a
+href="http://www.linkedin.com/shareArticle?mini=true&url=https://digitalmarketinginstitute.com/blog/ai-in-digital-marketing-the-ultimate-guide&source=digitalmarketinginstitute.com" target="_blank"><svg
+version="1.1" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" RoLe="img" aria-label="Linkedin Icon">
+<path
+d="M192 192h88.553v45.391h1.266c12.32-22.097 42.479-45.391 87.421-45.391 93.473 0 110.76 58.188 110.76 133.867v154.133h-92.305v-136.639c0-32.592-0.667-74.513-48.014-74.513-48.074 0-55.41 35.493-55.41 72.146v139.006h-92.271v-288z"></path>
+<path
+d="M32 192h96v288h-96v-288z"></path>
+<path
+d="M128 112c0 26.51-21.49 48-48 48s-48-21.49-48-48c0-26.51 21.49-48 48-48s48 21.49 48 48z"></path>
+</svg>
+</a></li><li><a
+href="https://twitter.com/intent/tweet?text=https://digitalmarketinginstitute.com/blog/ai-in-digital-marketing-the-ultimate-guide" title="Click to share this post on Twitter" target="_blank"><svg
+version="1.1" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" RoLe="img" aria-label="Twitter Icon">
+<path
+d="M512 113.2c-18.8 8.4-39.1 14-60.3 16.5 21.7-13 38.3-33.6 46.2-58.1-20.3 12-42.8 20.8-66.7 25.5-19.2-20.4-46.5-33.1-76.7-33.1-58 0-105 47-105 105 0 8.2 0.9 16.2 2.7 23.9-87.3-4.4-164.7-46.2-216.5-109.8-9 15.5-14.2 33.6-14.2 52.8 0 36.4 18.5 68.6 46.7 87.4-17.2-0.5-33.4-5.3-47.6-13.1 0 0.4 0 0.9 0 1.3 0 50.9 36.2 93.4 84.3 103-8.8 2.4-18.1 3.7-27.7 3.7-6.8 0-13.3-0.7-19.8-1.9 13.4 41.7 52.2 72.1 98.1 73-36 28.2-81.2 45-130.5 45-8.5 0-16.8-0.5-25.1-1.5 46.6 29.9 101.8 47.2 161.1 47.2 193.2 0 298.9-160.1 298.9-298.9 0-4.6-0.1-9.1-0.3-13.6 20.5-14.7 38.3-33.2 52.4-54.3z"></path>
+</svg>
+</a></li></ul></div><div
+class="cell medium-10 hub-content"><p>AI has evolved from a fantastical notion to a game-changer for digital marketers today. It&#39;s become the secret engine driving personalized ads, predictive analytics, customer experiences, and much more.</p><p>In this article, we&#39;ll break down what AI means for <a
+href="https://digitalmarketinginstitute.com/blog/what-is-digital-marketing" target="_blank">digital marketing</a>, examples of its use, challenges and tools (not just ChatGPT!), and consider&nbsp;the skills you need to face it to your advantage.&nbsp;</p><ul><li><a
+href="#heading_73425">What is AI in Digital Marketing?</a></li><li><a
+href="#heading_73455">AI Digital Marketing Tools</a></li><li><a
+href="#heading_73445">Examples of AI in Digital Marketing</a></li><li><a
+href="#heading_73428">How to use AI in Digital Marketing</a></li><li><a
+href="#heading_73449">What are the Pros &amp; Cons of AI Digital Marketing</a></li><li><a
+href="#heading_73457">What are the Most Common Skills Used in AI-Driven Digital Marketing</a></li></ul><blockquote>
+&ldquo;AI is a tool, it's a technology. It's as useful as the person putting it to work&rdquo;
+<cite>
+Clark Boyd, Founder at Novela & Marketing and Management Professor
+</cite></blockquote><h2 id="heading_73425">What is AI in Digital Marketing?</h2><p>AI in digital marketing uses artificial intelligence capabilities such as data collection, natural language processing, machine learning, and data analysis to get customer insights and automate marketing tasks and decisions.&nbsp;</p><p>The advantage of AI is that it will help you gain insights into customer behaviors at speed by harvesting vast amounts of data. These can be used to respond to and tailor a customer&rsquo;s needs depending on their actions and preferences. AI is also able to adapt and improve over time using feedback and new data.</p><p>Artificial intelligence offers great opportunities for marketers to be more effective and personalized. This means customers get relevant content that can be triggered by actions on a site, an ad, or a branded message.&nbsp;&nbsp;&nbsp;</p><p>But AI doesn&rsquo;t replace the roles and efforts of humans! It is a technology that complements and enhances those but it requires human skills to use it effectively.&nbsp;&nbsp;</p><h2 id="heading_73455">AI Digital Marketing Tools</h2><p>While ChatGPT may be the most talked-about generative AI tool, there are so many more out there that are helping marketers in their daily roles. They can help marketers in a variety of functions from content generation to automation to SEO and design.&nbsp;</p><p>Here are some of the most effective AI tools out there:&nbsp;</p><ul><li><strong>Jasper </strong>- A content generation and optimization tool designed for augmenting content production</li><li><strong>Writer </strong>- A highly-rated content generation tool that can repurpose content and includes an AI writing assistant&nbsp;</li><li><strong>Midjourney</strong> - Generative AI that can convert natural language prompts into images</li><li><strong>Optimove</strong> - A customer data platform with AI-based marketing functions</li><li><strong>Zapier </strong>- Helps automate workflows by connecting apps and services that your company uses</li><li><strong>Manychat</strong> - Provides an interactive customer experience using NLP to respond to customers on social platforms including WhatsApp</li><li><strong>Evolv.ai -</strong> Uses AI and machine learning algorithms to improve customer experiences in real-time</li><li><strong>Surfer SEO</strong> - A cloud-based on-page optimization tool that analyzes and compares your pages against what currently ranks on the SERPs</li><li><strong>Perplexity</strong> - Similar to ChatGPT but more suitable for research as it uses web citations in a clearer way.&nbsp;</li></ul><div
+class="grid-x downloads align-center gatedContentDownloadScroll"><div
+class="cell large-2 align-self-stretch text-center"
+style="background-image: url('https://mydmi.imgix.net/IntroductionToChatGPTPrompting_Icon.jpg?fit=crop&h=160&ixlib=php-3.3.1&w=200&s=7966b124541ba7db23eebfe3bb78fe26'); background-size: cover; background-position: center;"></div><div
+class="cell large-6 align-self-middle"><h5>A Guide to ChatGPT Prompting</h5></div><div
+class="cell large-4 align-self-middle">
+<a
+href="javascript:void(0);" onclick="gatedContentModel(type='download')"
+class="button expanded  primary"
+>Download</a></div></div><h2 id="heading_73445">Examples of AI in Digital Marketing</h2><p>The power of AI means it can be leveraged across many digital channels. Companies use it for social media campaigns, to automate tasks and processes, and for digital advertising.&nbsp;</p><p>It can also be used in any industry. Beauty brands use it to deliver a tailored customer experience such as Sephora&rsquo;s AI chatbot-powered shopping service, while publishers like The Economist use AI-driven programmatic advertising to target and influence &lsquo;reluctant readers&rsquo;.&nbsp;&nbsp;</p>
+<figure
+class="margin-0">
+<img
+alt="Netflix recommendation system" src="https://mydmi.imgix.net/Netflix_recommendation_AI_system.png?fm=jpg&ixlib=php-3.3.1&q=40&w=652&s=b705997c05276dbb27c33d64721c9cef" loading="lazy" srcset="https://mydmi.imgix.net/Netflix_recommendation_AI_system.png?dpr=1&fm=jpg&ixlib=php-3.3.1&q=40&w=652&s=63df79b32d1c55e939c6a13329e04730 1x,https://mydmi.imgix.net/Netflix_recommendation_AI_system.png?dpr=2&fm=jpg&ixlib=php-3.3.1&q=40&w=652&s=c6f3cfe05978711ae4366851e00042b0 2x" width="652" height="322"/>
+<figcaption>Netflix recommendation system</figcaption>
+</figure><p>One of the most successful and well-known for using AI effectively is streaming giant <a
+href="https://digitalmarketinginstitute.com/blog/the-unstoppable-success-of-netflix" target="_blank">Netflix</a> which employs the technology to provide personalized recommendations based on user preferences and behavior.&nbsp;</p><p>Check out some <a
+href="https://digitalmarketinginstitute.com/blog/some-inspiring-uses-of-ai-in-digital-marketing" target="_blank">amazing examples of AI in marketing</a> to get inspiration.</p><h2 id="heading_73428">How to Use AI in Digital Marketing</h2><p>As AI technologies have become more accessible and easier to use, companies have started to use them in daily tasks such as creating content for PPC ads or setting up triggered email workflows.&nbsp;&nbsp;</p><p>When we asked our membership community at the Digital Marketing Institute about AI, over half felt their roles are changing due to the technology while 44% already use it. Of those who use artificial intelligence, 45% believe it has helped increase their productivity.&nbsp;</p><p>But what are marketers using AI for?</p><h3 id="heading_73430">1. Content and image creation</h3><p>Marketing teams are often under pressure to create content quickly for many purposes and channels. However, creating good content takes time and effort, and a lot of marketers are time- and resource-poor.&nbsp;</p><p>AI software such as <a
+href="https://digitalmarketinginstitute.com/resources/videos/walkthrough-get-started-with-chatgpt-basics" target="_blank">ChatGPT</a> and Jasper has exploded because it helps people to generate content: that&rsquo;s why they&rsquo;re called generative AI tools!&nbsp; This could be email subject lines, ad copy, landing pages, blogs, or anything else you need for your <a
+href="https://digitalmarketinginstitute.com/resources/webinars/webinar-how-to-develop-a-content-marketing-plan-in-10-steps" target="_blank">content marketing</a>. You can also use AI writing prompts to create catchy headlines and customize content for your audience which drives personalization.&nbsp;</p><p>Using these tools saves time and money. However, make sure to read over any content before publishing it live to ensure it has personality and fits in with your brand voice.&nbsp;</p><p><em>"People use AI because it&#39;s lower cost and highly scalable. But if you don&#39;t have a good creative platform and it doesn&#39;t come from creative and data-driven insights, then it&#39;s just spray and pray really,&rdquo;</em> says <a
+href="https://www.linkedin.com/in/mischamcinerney" target="_blank">Mischa McInerney</a>, CMO at the Digital Marketing Institute&nbsp;&nbsp;&nbsp;</p><blockquote>
+&ldquo;44% of marketers have used AI for content production&rdquo;
+<cite>
+AI Marketing Benchmark Report 2023
+</cite></blockquote><h3 id="heading_73433">2. Customer service and support</h3><p>AI-driven chatbots have been around for a while as a way to communicate with and provide information to customers. When people want to get instant answers to simple queries or interact with a brand, they first go to a chatbot.&nbsp;</p><p>However, AI has a bigger role when it comes to customers. It can improve customer experience by personalizing content and messaging, anticipating customer needs, streamlining purchasing, and directing queries or concerns to the right department or agent.</p><p>48% of marketing leaders say AI is making the most significant difference in how customers interact with them - <a
+href="https://www.semrush.com/blog/artificial-intelligence-stats/#ai-in-marketing,-customer-service,-and-sales-statistics" target="_blank">SEMRush</a></p><h3 id="heading_73435">3. Customer segmentation</h3><p>Customer segmentation and targeting help you identify and influence your most valuable customers. However, doing this manually can be time-consuming and costly.&nbsp;&nbsp;</p><p>AI can use algorithms to segment your prospects and customers into groups or segments of people with similar interests, needs, or behaviors.&nbsp;</p><p>You can then communicate with and target these segments with relevant and customized messaging that can be adapted and adjusted in real time. Recommendation systems can suggest products, services, or offers that match customer preferences while Natural Language Processing (NLP) can analyze customer feedback and reviews to improve your products, services, or customer experience.</p><h3 id="heading_73437">4.  SEO</h3><p>Artificial intelligence has huge potential in the area of <a
+href="https://digitalmarketinginstitute.com/blog/what-is-seo-and-why-is-it-important" target="_blank">search engine optimization (SEO)</a>. Search engines such as Google have been using sophisticated algorithms that crawl and index web pages to rank them. Now, AI is becoming further integrated with that process in a way that is changing the world of search even more, through <a
+href="https://digitalmarketinginstitute.com/blog/preparing-for-ai-search-with-google-search-generative-experience-sge" target="_blank">Search Generative Experience (SGE)</a>.&nbsp;</p><p>AI can automate and improve keyword research and content optimization by analyzing user behavior, along with creating meta tags and headings. Marketers can also use it to predict SEO trends, user behavior, and algorithm updates through predictive SEO.&nbsp;&nbsp;</p><p>Voice and visual search are becoming more important ways for people to find information, and AI can help optimize both. This can be done by focusing on NLP and long-tail keywords and including relevant metadata on images.</p><h3 id="heading_73439">5. Pay-Per-Click advertising</h3><p>Pay-per-click (PPC) advertising is a form of advertising where you pay when someone clicks your ad. As a strategy, <a
+href="https://digitalmarketinginstitute.com/blog/what-is-ppc-marketing" target="_blank">PPC marketing</a> is important as it can attract new customers through targeted campaigns, get quick results, and be easily tweaked and optimized.&nbsp;</p><p>AI can be used to enhance your PPC campaigns by optimizing:</p><ul><li>Keyword research</li><li>Bidding and targeting</li><li>Ad creation</li><li>Ad scheduling and placement</li><li>Predictive analysis</li><li>Fraud detection</li></ul><p>As the technology continues to evolve, marketers can see new ad formats, targeting techniques, and measurement tools for PPC. This is why it&rsquo;s so important to keep an eye on developments and <a
+href="https://digitalmarketinginstitute.com/blog/tech-advances-the-importance-of-keeping-up-to-speed" target="_blank">stay up to date</a>.&nbsp;</p><h3 id="heading_73441">6. Data analytics</h3><p>With so much data available from a wide variety of channels, marketers can often feel overwhelmed. However, artificial intelligence can process vast volumes of data at speed. This can help marketers gain insights from data, along with using historical data to predict trends and behaviors.&nbsp;</p><p>AI can also be used to detect anomalies in data and uncover patterns. The combination of AI and data analysis can help drive hyper-personalization. The more you <a
+href="https://digitalmarketinginstitute.com/blog/7-tips-on-getting-to-know-your-customers-better" target="_blank">know&nbsp;your customers better</a>, the more targeted you can be in your messaging and approach. In retail, for example, it can be used to manage inventory and optimize customer service.</p><p>ChatGPT has excellent data analysis capabilities, especially if you use its Advanced Data Analysis plugin. This enables you to feed a spreadsheet to ChatGPT, and it then helps you to unearth deep insights above the data in your spreadsheet.</p><p>Ultimately it&rsquo;s about using AI technology in data analysis to <a
+href="https://digitalmarketinginstitute.com/blog/how-to-use-data-analytics-to-drive-better-business-insights" target="_blank">drive better business insights</a> in a way that works for you.</p><h3 id="heading_73443">7. Email marketing</h3><p><a
+href="https://digitalmarketinginstitute.com/blog/the-ultimate-email-marketing-guide-for-beginners" target="_blank">Email marketing</a> is an important part of any marketing strategy as it continues to be an effective way to convert prospects and engage customers. Using AI tools in your email marketing can save you time and improve performance.</p><p>By using AI in emails, you can:</p><ul><li>Analyze email performance to identify how to optimize your email strategies (e.g. high-performing subject lines)</li><li>Create triggered workflows driven by user actions</li><li>Conduct campaign and workflow analysis</li><li>Craft copy tailored to your audience</li><li>Personalize content to audience segments&nbsp;</li><li>Enable dynamic content</li><li>Perform A/B testing</li></ul><p>AI can also curate your email lists by comparing metrics to determine the value of an email address or email list. You can also get insights about your email schedule by tracking the value generated by each email and analyzing the frequency.</p><p><strong>Did you know?</strong>&nbsp;63% of users trust AI email-generation tools but double-check their work, while 25% fully rely on AI-generated emails - <a
+href="https://selzy.com/en/benchmarks/ai-email-marketing-statistics/" target="_blank">Selzy</a></p><div
+class="grid-x downloads align-center gatedContentDownloadScroll"><div
+class="cell large-2 align-self-stretch text-center"
+style="background-image: url('https://mydmi.imgix.net/IntroductionToChatGPTPrompting_Icon.jpg?fit=crop&h=160&ixlib=php-3.3.1&w=200&s=7966b124541ba7db23eebfe3bb78fe26'); background-size: cover; background-position: center;"></div><div
+class="cell large-6 align-self-middle"><h5>A Quick Guide to ChatGPT Prompting</h5></div><div
+class="cell large-4 align-self-middle">
+<a
+href="javascript:void(0);" onclick="gatedContentModel(type='download')"
+class="button expanded  primary"
+>Download</a></div></div><h2 id="heading_73449">What are the Pros and Cons of AI in Digital Marketing?</h2><p>As with any evolving technology, there are advantages and disadvantages to using artificial intelligence. There are also ethical implications to take into account in terms of <a
+href="https://digitalmarketinginstitute.com/blog/the-state-of-data-privacy" target="_blank">data privacy</a>, bias, and discrimination.&nbsp;</p><blockquote>
+&ldquo;AI is no longer a niche topic for a few tuned-in geeks. It’s an area that all marketers need to become knowledgeable about; quickly.&rdquo;
+<cite>
+Jim Leckinski, Associate Professor at Kellogg School of Marketing, Northwestern University. 
+</cite></blockquote><h3 id="heading_73451">The Pros of AI in Digital Marketing</h3><ol><li><strong>Boosts productivity</strong> - Automate a variety of jobs so your time and effort can be redirected to more difficult and strategic tasks.&nbsp;</li><li><strong>Drives efficiency</strong> - Handle&nbsp;mundane and repetitious activities such as data input, separating marketing campaign leads, and replying to consumer queries.</li><li><strong>Reveals insights</strong> - Eliminate guesswork and provide data-driven capabilities to develop a more effective marketing approach and open up new marketing opportunities.&nbsp;</li><li><strong>Increases ROI</strong> - Predict buying behavior and choices by evaluating data, improving the UX, and providing consumers with the content they require to complete their buyer journey.&nbsp;</li><li><strong>Create and optimize content</strong> - Automate content creation to produce quality content at scale for all online channels.&nbsp;</li><li><strong>Personalize at scale</strong> - Analyze customer data and generate personalized recommendations or content to enhance customer experience.&nbsp;</li><li><strong>Predictive analysis</strong> - Forecast consumer behavior or market trends based on historical data to help more accurate and effective planning.&nbsp;</li><li><strong>Automate tasks</strong> - Handle routine tasks such as data analysis, customer segmentation, email sorting, data entry or basic reporting.</li></ol><h3 id="heading_73453">The Cons of AI in Digital Marketing</h3><ol><li><strong>Bias</strong> - AI can only be as effective as the data it draws on so it&rsquo;s not inherently neutral. This means you need to be aware of the potential for racial, gender, cultural, or socioeconomic biases in your AI-driven strategies.</li><li><strong>Inaccuracy</strong> - Mistakes or inaccuracies in data can lead to faulty analyses and potentially costly business decisions.&nbsp;</li><li><strong>Ethics</strong> - Ethical concerns include the manipulation of user data and behavior, consent, and the &lsquo;creepiness factor&rsquo; in hyper-targeted ads.&nbsp;&nbsp;</li><li><strong>Data sensitivity and security</strong> - AI systems often require access to extensive datasets, which may include sensitive information that needs to be securely managed.&nbsp;</li><li><strong>Transparency</strong> - As AI-generated content becomes more common, questions about transparency, plagiarism, authorship, and IP ownership become relevant.&nbsp;</li></ol><h2 id="heading_73457">What are the Most Common Skills Used in AI-Driven Digital Marketing?</h2><p>The key to using AI technology effectively is to make it fit in with your role. It&#39;s not enough to know how to use artificial intelligence. You also need to know why you&#39;re using it. Does it align with your business and career goals? Will it help you deliver organizational objectives more efficiently?</p><p>You need to understand the basics but also take a deep dive into AI to use it to meet your goals whether that be generating leads or improving customer service.&nbsp;</p><p>Here are some of the key technical skills you should consider brushing up on to improve your broader competency with AI tech:</p><ul><li>Data management</li><li>Data analysis</li><li>Testing</li><li>Content personalization</li><li><a
+href="https://digitalmarketinginstitute.com/blog/what-are-the-best-ai-and-marketing-automation-tools" target="_blank">Marketing automation</a></li><li>Process analysis and improvement</li></ul><p>Developing these technical skills may alleviate some of the fear you might feel when dealing with AI. The more familiar you become with the models and technology, the less intimidating it becomes!</p><p>But it&rsquo;s not just about hard skills like coding or content marketing. Companies seek marketers with outside-the-box thinking and skills that make them solution-focused.&nbsp;</p><p>&ldquo;<em>I speak to a lot of people in ad agencies and learning and development at big companies and they often talk about hard skills. I want to see people learn how to code. I want to see them apply this and get ROI,&rdquo; </em>says Clark Boyd on the <a
+href="https://digitalmarketinginstitute.com/resources/podcasts/podcast-084-how-useful-is-ai-in-digital-marketing-clark-boyd" target="_blank">DMI podcast</a>.&nbsp;</p><p>Four areas that are important to focus on for broader or <a
+href="https://digitalmarketinginstitute.com/blog/9-essential-soft-skills-for-digital-marketers" target="_blank">soft skills</a> in the context of AI are:</p><ul><li>Strategic thinking</li><li>Innovation</li><li>Creativity</li><li>Agile thinking</li></ul><p>These critical professional skills will perfectly complement your digital and technical skills as you prepare for the AI-driven future of marketing.</p><p>Read more about <a
+href="https://digitalmarketinginstitute.com/blog/8-digital-skills-you-need-to-survive-the-rise-of-ai" target="_blank">digital skills for AI</a>.&nbsp;</p><h2 id="heading_73459">Conclusion: AI in Digital Marketing</h2><p>We know that artificial intelligence can be daunting and it&rsquo;s difficult to see where and how it fits into your role. But it shouldn&rsquo;t be seen as a threat. AI can become an invaluable ally as you look to effectively meet your goals.&nbsp;</p><p>After all, AI tools are great for looking after mundane, predictable, and labor-intensive tasks. This frees you up to focus on the more creative and strategic aspects of your job.&nbsp;</p><p>Understanding and mastering AI will also give you a personal boost. You will gain new skills and real-life experience in a generative technology that&rsquo;s going to become more widespread and an area that companies look for to recruit or promote.&nbsp;&nbsp;</p><p><em>&ldquo;Awareness is the first step to change. The question is, are you going to sit on the sidelines and let this evolve or are you going to dive in with two feet and try to understand it, learn it, try it and apply it?&rdquo; </em>concludes<em> </em>Lecinski on the DMI podcast on <a
+href="https://digitalmarketinginstitute.com/resources/podcasts/podcast-083-get-started-with-ai-in-marketing-jim-lecinski" target="_blank">getting started in AI</a>.&nbsp;</p><h2 id="heading_74109">Use AI to elevate your digital marketing activities</h2><p>Artificial intelligence is a game changer for marketers as it helps personalize, optimize and automate many key marketing activities. Our <a
+href="https://digitalmarketinginstitute.com/students/short-courses/ai-in-digital-marketing" target="_blank">new short interactive AI course</a> (with practical walkthroughs) will help you understand&nbsp;the fundamentals of&nbsp;AI and use key AI&nbsp;tools for research, content development, data-driven decision-making, and creative design. Reserve your spot today!</p><h4 class="related_heading">Related</h4><ul
+class="related_links"><li><a
+href="https://digitalmarketinginstitute.com/resources/podcasts/podcast-084-how-useful-is-ai-in-digital-marketing-clark-boyd" target="_blank">Podcast: How Useful is AI in Digital Marketing?</a></li><li><a
+href="https://digitalmarketinginstitute.com/resources/podcasts/podcast-083-get-started-with-ai-in-marketing-jim-lecinski" target="_blank">Podcast: Get Started with AI in Marketing</a></li><li><a
+href="https://digitalmarketinginstitute.com/blog/some-inspiring-uses-of-ai-in-digital-marketing" target="_blank">Best Examples of AI in Marketing</a></li><li><a
+href="https://digitalmarketinginstitute.com/resources/toolkits/chatgpt-prompt-guide-for-your-digital-marketing-plan" target="_blank">ChatGPT Prompt Guide for your Digital Marketing Plan</a></li><li><a
+href="https://digitalmarketinginstitute.com/blog/preparing-for-ai-search-with-google-search-generative-experience-sge" target="_blank">Preparing for AI Search with Google Search Generative Experience (SGE)</a></li></ul></div><div
+class="cell medium-1"></div></div></div></div><div
+class="text-gate"><div
+class="gate-gradient"></div></div></div><div
+id="js_related_lessons" class="cell medium-4 large-3 hub_detail_sideBar_out mt30"><div
+id="js_related_lessons_block" class="rel_lessons-wrap"><h4 class="rel_lessons-heading">Related Free Video Lessons</h4><ul
+class="rel_lessons-links"><li><a
+href="/resources/lessons/budget-and-resourcing_channel-integrations-and-attribution_1fd" target="_blank"><svg
+width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" RoLe="img" aria-label="Play Icon">
+<g
+stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g
+transform="translate(-1051.000000, -1064.000000)" fill="#6426DB">
+<g
+transform="translate(135.000000, 973.000000)">
+<g
+transform="translate(897.000000, 0.000000)">
+<g
+transform="translate(0.000000, 1.000000)">
+<g
+transform="translate(19.000000, 26.000000)">
+<g
+transform="translate(0.000000, 62.000000)">
+<g
+transform="translate(0.000000, 2.000000)">
+<path
+d="M12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 Z M9,8 L9,16 L16.9960957,12 L9,8 Z" id="Combined-Shape"></path>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg> <span
+class="cat">Budget and Resourcing</span><br/><span
+class='subtitle'>Channel Integrations and Attribution</span></a></li><li><a
+href="/resources/lessons/traditional-communications_the-four-parameters-of-marketing_s1mb" target="_blank"><svg
+width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" RoLe="img" aria-label="Play Icon">
+<g
+stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g
+transform="translate(-1051.000000, -1064.000000)" fill="#6426DB">
+<g
+transform="translate(135.000000, 973.000000)">
+<g
+transform="translate(897.000000, 0.000000)">
+<g
+transform="translate(0.000000, 1.000000)">
+<g
+transform="translate(19.000000, 26.000000)">
+<g
+transform="translate(0.000000, 62.000000)">
+<g
+transform="translate(0.000000, 2.000000)">
+<path
+d="M12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 Z M9,8 L9,16 L16.9960957,12 L9,8 Z" id="Combined-Shape"></path>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg> <span
+class="cat">Traditional Communications</span><br/><span
+class='subtitle'>The Four Parameters of Marketing</span></a></li><li><a
+href="/resources/lessons/introduction-to-digital-marketing_3i-principles_8w1u" target="_blank"><svg
+width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" RoLe="img" aria-label="Play Icon">
+<g
+stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g
+transform="translate(-1051.000000, -1064.000000)" fill="#6426DB">
+<g
+transform="translate(135.000000, 973.000000)">
+<g
+transform="translate(897.000000, 0.000000)">
+<g
+transform="translate(0.000000, 1.000000)">
+<g
+transform="translate(19.000000, 26.000000)">
+<g
+transform="translate(0.000000, 62.000000)">
+<g
+transform="translate(0.000000, 2.000000)">
+<path
+d="M12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 Z M9,8 L9,16 L16.9960957,12 L9,8 Z" id="Combined-Shape"></path>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg> <span
+class="cat">Introduction to Digital Marketing</span><br/><span
+class='subtitle'>3i Principles</span></a></li><li><a
+href="/resources/lessons/traditional-communications_embed-your-companys-purpose_kgj5" target="_blank"><svg
+width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" RoLe="img" aria-label="Play Icon">
+<g
+stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g
+transform="translate(-1051.000000, -1064.000000)" fill="#6426DB">
+<g
+transform="translate(135.000000, 973.000000)">
+<g
+transform="translate(897.000000, 0.000000)">
+<g
+transform="translate(0.000000, 1.000000)">
+<g
+transform="translate(19.000000, 26.000000)">
+<g
+transform="translate(0.000000, 62.000000)">
+<g
+transform="translate(0.000000, 2.000000)">
+<path
+d="M12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 Z M9,8 L9,16 L16.9960957,12 L9,8 Z" id="Combined-Shape"></path>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg> <span
+class="cat">Traditional Communications</span><br/><span
+class='subtitle'>Embed Your Company&#8217;s Purpose</span></a></li></ul><div
+id="js_sidebar_cta"><a
+id="primary-trial-link" href="https://digitalmarketinginstitute.com/students/courses?view-courses-lesson-box" class="rel_lessons-more">View Courses</a></div></div><div
+id="js_related_content_block" class="rel_articles-wrap hide"><h4 class="rel_articles-heading pb10">Related Content</h4><div
+class="hub-related-card">
+<figure
+style="background-size:cover; background-position:center;"
+data-lazy='https://mydmi.imgix.net/Resume_Builder_Template_Card.png?crop=entropy&fit=crop&fm=jpg&h=180&ixlib=php-3.3.1&q=40&w=340&s=3e80c20e25c68d5f6998199c54caa1ce'>
+<a
+href="/resources/toolkits/resume-curriculum-vitae-builder-template"></a>
+</figure><h3 class="font-size-6 lh120">
+<a
+href="/resources/toolkits/resume-curriculum-vitae-builder-template"><span>Toolkits:</span><br/>Résumé (Curriculum Vitae) Builder Template</a></h3>
+</a></div><div
+class="hub-related-card">
+<figure
+style="background-size:cover; background-position:center;"
+data-lazy='https://mydmi.imgix.net/Get_Ready_for_2023%21_Your_Digital_Marketing_Trends_for_the_Year_Ahead_card2.png?crop=entropy&fit=crop&fm=jpg&h=180&ixlib=php-3.3.1&q=40&w=340&s=810a87bfdb92c0c5e176a62aab45db77'>
+<a
+href="/resources/webinars/webinar-digital-marketing-trends-2023"></a>
+</figure><h3 class="font-size-6 lh120">
+<a
+href="/resources/webinars/webinar-digital-marketing-trends-2023"><span>Webinars:</span><br/>Webinar: Your Digital Marketing Trends For 2023</a></h3>
+</a></div><div
+class="hub-related-card">
+<figure
+style="background-size:cover; background-position:center;"
+data-lazy='https://mydmi.imgix.net/Digital_Marketing_Interview_Preparation_Toolkit_card.png?crop=entropy&fit=crop&fm=jpg&h=180&ixlib=php-3.3.1&q=40&w=340&s=03ea5730771793784db95e6695215672'>
+<a
+href="/resources/toolkits/digital-marketing-interview-preparation-toolkit"></a>
+</figure><h3 class="font-size-6 lh120">
+<a
+href="/resources/toolkits/digital-marketing-interview-preparation-toolkit"><span>Toolkits:</span><br/>Digital Marketing Interview Preparation Toolkit</a></h3>
+</a></div><div
+class="hub-related-card">
+<figure
+style="background-size:cover; background-position: center;"
+data-lazy='https://mydmi.imgix.net/articles/main/cvcard.jpg?crop=entropy&fit=crop&fm=jpg&h=180&ixlib=php-3.3.1&q=40&w=340&s=3dd5721d7813d2cccc596d6c50bf8bad'>
+<a
+href="/blog/the-digital-marketing-interview-getting-your-approach-right"></a>
+</figure><h3 class="font-size-6 lh120">
+<a
+href="/blog/the-digital-marketing-interview-getting-your-approach-right"><span>Articles:</span><br/>The Digital Marketing Interview: Getting Your Approach Right</a></h3>
+</a></div><div
+class="hub-related-card">
+<figure
+style="background-size:cover; background-position: center;"
+data-lazy='https://mydmi.imgix.net/hello-i-m-nik-zvp28XaLcDI-unsplash.jpg?crop=entropy&fit=crop&fm=jpg&h=180&ixlib=php-3.3.1&q=40&w=340&s=430857a5a888b3d85fada0c8d018b735'>
+<a
+href="/blog/top-christmas-ads"></a>
+</figure><h3 class="font-size-6 lh120">
+<a
+href="/blog/top-christmas-ads"><span>Articles:</span><br/>Our Top 10 Christmas Ads of 2023</a></h3>
+</a></div><div
+class="hub-related-card">
+<figure
+style="background-size:cover; background-position: center;"
+data-lazy='https://mydmi.imgix.net/7ThingsInterview.jpg?crop=entropy&fit=crop&fm=jpg&h=180&ixlib=php-3.3.1&q=40&w=340&s=1f15a55e491f7bf233c5e69fc2426c03'>
+<a
+href="/blog/7-things-you-should-never-do-in-your-digital-marketing-interview"></a>
+</figure><h3 class="font-size-6 lh120">
+<a
+href="/blog/7-things-you-should-never-do-in-your-digital-marketing-interview"><span>Articles:</span><br/>7 Things to Avoid in Your Digital Marketing Interview</a></h3>
+</a></div></div></div></div></div><div
+class="cell large-12 mt50 gate-close"><div
+class="grid-x grid-padding-x"><div
+class="cell medium-1"></div><div
+class="cell medium-7"><div
+class="grid-x"><div
+class="cell small-12"><div
+class="hub-detail--info"><ul
+class="share-via share-via--other"><li
+class="intro">Share via:</li><li><a
+href="http://www.facebook.com/share.php?u=https://digitalmarketinginstitute.com/blog/ai-in-digital-marketing-the-ultimate-guide" onclick="return fbs_click()" target="_blank"><svg
+version="1.1" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" RoLe="img" aria-label="Facebook Icon">
+<path
+d="M304 96h80v-96h-80c-61.757 0-112 50.243-112 112v48h-64v96h64v256h96v-256h80l16-96h-96v-48c0-8.673 7.327-16 16-16z"></path>
+</svg>
+</a></li><li><a
+href="http://www.linkedin.com/shareArticle?mini=true&url=https://digitalmarketinginstitute.com/blog/ai-in-digital-marketing-the-ultimate-guide&source=digitalmarketinginstitute.com" target="_blank"><svg
+version="1.1" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" RoLe="img" aria-label="Linkedin Icon">
+<path
+d="M192 192h88.553v45.391h1.266c12.32-22.097 42.479-45.391 87.421-45.391 93.473 0 110.76 58.188 110.76 133.867v154.133h-92.305v-136.639c0-32.592-0.667-74.513-48.014-74.513-48.074 0-55.41 35.493-55.41 72.146v139.006h-92.271v-288z"></path>
+<path
+d="M32 192h96v288h-96v-288z"></path>
+<path
+d="M128 112c0 26.51-21.49 48-48 48s-48-21.49-48-48c0-26.51 21.49-48 48-48s48 21.49 48 48z"></path>
+</svg>
+</a></li><li><a
+href="https://twitter.com/intent/tweet?text=https://digitalmarketinginstitute.com/blog/ai-in-digital-marketing-the-ultimate-guide" title="Click to share this post on Twitter" target="_blank"><svg
+version="1.1" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" RoLe="img" aria-label="Twitter Icon">
+<path
+d="M512 113.2c-18.8 8.4-39.1 14-60.3 16.5 21.7-13 38.3-33.6 46.2-58.1-20.3 12-42.8 20.8-66.7 25.5-19.2-20.4-46.5-33.1-76.7-33.1-58 0-105 47-105 105 0 8.2 0.9 16.2 2.7 23.9-87.3-4.4-164.7-46.2-216.5-109.8-9 15.5-14.2 33.6-14.2 52.8 0 36.4 18.5 68.6 46.7 87.4-17.2-0.5-33.4-5.3-47.6-13.1 0 0.4 0 0.9 0 1.3 0 50.9 36.2 93.4 84.3 103-8.8 2.4-18.1 3.7-27.7 3.7-6.8 0-13.3-0.7-19.8-1.9 13.4 41.7 52.2 72.1 98.1 73-36 28.2-81.2 45-130.5 45-8.5 0-16.8-0.5-25.1-1.5 46.6 29.9 101.8 47.2 161.1 47.2 193.2 0 298.9-160.1 298.9-298.9 0-4.6-0.1-9.1-0.3-13.6 20.5-14.7 38.3-33.2 52.4-54.3z"></path>
+</svg>
+</a></li></ul><ul
+class="share-via right"><li><a
+href="#" class="alt1 tooltip-bottom" data-toggle-favourite="2831361" data-css-tooltip="You need to be logged in to use this feature"><svg
+width="24px" height="23px" viewBox="0 0 24 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" RoLe="img" aria-label="Like Icon">
+<g
+stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g
+transform="translate(-143.000000, -999.000000)" fill="#E6ECF0" fill-rule="nonzero" stroke="#8A8AAD" stroke-width="2"><g
+transform="translate(135.000000, 973.000000)"><g
+transform="translate(0.000000, 16.000000)"><g><g
+transform="translate(9.000000, 11.000000)">
+<path
+d="M21.7391304,6.08695652 C21.7391304,12.6282609 11.7863478,19.426087 11.3626087,19.7178261 L10.8669565,20 L10.3729565,19.6564348 C9.9493913,19.3615652 0,12.553913 0,6.08695652 C0,2.44608696 2.2713913,0 5.65217391,0 C8.02165217,0 9.89921739,1.76086957 10.8734783,2.91217391 C11.8549565,1.7626087 13.7421739,0 16.0869565,0 C19.4677391,0 21.7391304,2.44608696 21.7391304,6.08695652 Z" id="Shape"></path>
+</g></g></g></g></g></g>
+</svg></a></li><li><a
+href="#" class="alt2 tooltip-bottom" data-toggle-reading="2831361" data-css-tooltip="You need to be logged in to use this feature"><svg
+width="16px" height="22px" viewBox="0 0 16 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" RoLe="img" aria-label="Bookmark Icon">
+<g
+stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g
+transform="translate(-147.000000, -1046.000000)" fill="#E6ECF0" fill-rule="nonzero" stroke="#8A8AAD" stroke-width="2"><g
+transform="translate(135.000000, 973.000000)"><g
+transform="translate(0.000000, 16.000000)"><g
+transform="translate(0.000000, 48.000000)"><g
+transform="translate(13.000000, 10.000000)">
+<path
+d="M12.5000012,0 L1.50000122,0 C0.671575064,0 1.21772064e-06,0.537257989 1.21772064e-06,1.19999931 L1.21772064e-06,19.5991087 C-0.000292689237,19.7057229 0.052626839,19.8080199 0.147011765,19.8832875 C0.241396691,19.9585551 0.369436008,20.0005644 0.502702253,20 C0.621350053,20 0.735930153,19.9653791 0.82530213,19.9029485 L7.00000122,15.1999912 L13.1744974,19.9027885 C13.2638735,19.9653385 13.3785482,20 13.4972973,20 C13.6305809,20.0005645 13.7586355,19.9585443 13.8530233,19.8832593 C13.9474112,19.8079744 14.0003189,19.7056568 14.0000012,19.5990287 L14.0000012,1.19999931 C14.0000012,0.537257989 13.3284245,0 12.5000012,0 Z"></path>
+</g></g></g></g></g></g>
+</svg></a></li></ul></div></div></div><div
+class="grid-x"></div><div
+class="grid-x"><div
+class="cell"><hr></div><div
+class="categories bottom"><ul><li><strong>Categories:</strong></li><li>
+<a
+href="/blog" class="un">Articles</a></li><li><a
+href="/resources/digital-marketing" class="un">Digital Marketing</a></li></ul></div></div></div></div></div><div
+id="gtd-info-bar" class="grid-container"><div
+class="gtd-info-content"><div
+class="gtd-info-text"><span
+class="info-val"></span> <span
+class="info-static">Upgrade to Power Membership to continue
+your access to thousands of articles, toolkits, podcasts, lessons and much much more.</span></div>
+<a
+href="/myaccount/renew" class="button" title="Become a power member">Become a Power Member</a></div></div></div></div></div>
+<script type="application/ld+json">{
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://digitalmarketinginstitute.com/blog/ai-in-digital-marketing-the-ultimate-guide"
+        },
+        "headline": "AI in Digital Marketing - The Ultimate Guide",
+        
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://mydmi.imgix.net/Blog_Card_2.png?crop=entropy&fit=crop&fm=jpg&h=1200&ixlib=php-3.3.1&q=50&w=1600&s=9ed7846d7a41bdd9231803b27f7680fd",
+                "width": 800,
+                "height": 600
+            },
+        
+        
+            "author": {
+                "@type": "Person",
+                "name": "Simon @ DMI"
+            },
+        
+        "datePublished": "2023-11-21T09:00:00+00:00",
+        "dateModified": "2024-02-06T12:55:40+00:00",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Digital Marketing Institute",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://digitalmarketinginstitute.com/assets-v3/images/design/logo.png",
+                "width": 32,
+                "height": 32
+            }
+        },
+        "description": "AI has evolved from a fantastical notion to a game-changer for digital marketers today. It&#39;s become the secret engine driving personalized ads, predictive analytics, customer experiences, and much more. In this article, we&#39;ll break down what AI means for digital marketing, examples of its use, challenges and tools (not just ChatGPT!), and consider&nbsp;the skills you need to face it to your advantage.&nbsp;  What is AI in&#8230;"
+    }</script><div
+id="gate-cta" class="grid-container"><div
+class="content"><p
+class="heading"></p><p
+class="body"></p></div></div><div
+class="hub-related p50 pb60 m0 mb60 gate-close"><div
+class="grid-container"><div
+class="grid-x grid-margin-x grid-margin-y align-left"><div
+class="cell small-12 p0 m0"><h3 class="font-size-4 txt_navy m0">Recommended For You</h3></div><div
+class="cell small-12 medium-6 large-4"><div
+class="hub-related-card">
+<figure
+style="background-size:cover; background-position:center;"
+data-lazy='https://mydmi.imgix.net/Resume_Builder_Template_Card.png?crop=entropy&fit=crop&fm=jpg&h=180&ixlib=php-3.3.1&q=40&w=340&s=3e80c20e25c68d5f6998199c54caa1ce'>
+<a
+href="/resources/toolkits/resume-curriculum-vitae-builder-template"></a>
+</figure><h3 class="font-size-6 lh120">
+<a
+href="/resources/toolkits/resume-curriculum-vitae-builder-template"><span>Toolkits:</span><br/>Résumé (Curriculum Vitae) Builder Template</a></h3>
+</a></div></div><div
+class="cell small-12 medium-6 large-4"><div
+class="hub-related-card">
+<figure
+style="background-size:cover; background-position:center;"
+data-lazy='https://mydmi.imgix.net/Library_card.png?crop=entropy&fit=crop&fm=jpg&h=180&ixlib=php-3.3.1&q=40&w=340&s=bf2607b048b7a9dc5b311edf8c764f82'>
+<a
+href="/resources/ebooks/dmi-insights-the-most-important-marketing-skills-biggest-challenges-the-impact-of-ai"></a>
+</figure><h3 class="font-size-6 lh120">
+<a
+href="/resources/ebooks/dmi-insights-the-most-important-marketing-skills-biggest-challenges-the-impact-of-ai"><span>eBooks:</span><br/>DMI Insights: The Most Important Marketing Skills, Biggest Challenges, &amp; the Impact of AI</a></h3>
+</a></div></div><div
+class="cell small-12 medium-6 large-4"><div
+class="hub-related-card">
+<figure
+style="background-size:cover; background-position:center;"
+data-lazy='https://mydmi.imgix.net/Get_Ready_for_2023%21_Your_Digital_Marketing_Trends_for_the_Year_Ahead_card2.png?crop=entropy&fit=crop&fm=jpg&h=180&ixlib=php-3.3.1&q=40&w=340&s=810a87bfdb92c0c5e176a62aab45db77'>
+<a
+href="/resources/webinars/webinar-digital-marketing-trends-2023"></a>
+</figure><h3 class="font-size-6 lh120">
+<a
+href="/resources/webinars/webinar-digital-marketing-trends-2023"><span>Webinars:</span><br/>Webinar: Your Digital Marketing Trends For 2023</a></h3>
+</a></div></div><div
+class="cell small-12 medium-6 large-4"><div
+class="hub-related-card">
+<figure
+style="background-size:cover; background-position: center;"
+data-lazy='https://mydmi.imgix.net/Blog_Card_The_Ultimate_Digital_Marketing_Interview_Checklist.png?crop=entropy&fit=crop&fm=jpg&h=180&ixlib=php-3.3.1&q=40&w=340&s=5c5aa878e66a54ec47617a17852c1553'>
+<a
+href="/blog/the-ultimate-digital-marketing-interview-checklist"></a>
+</figure><h3 class="font-size-6 lh120">
+<a
+href="/blog/the-ultimate-digital-marketing-interview-checklist"><span>Articles:</span><br/>The Ultimate Digital Marketing Interview Checklist</a></h3>
+</a></div></div><div
+class="cell small-12 medium-6 large-4"><div
+class="hub-related-card">
+<figure
+style="background-size:cover; background-position: center;"
+data-lazy='https://mydmi.imgix.net/2022_Membership_Wrap-up_card.png?crop=entropy&fit=crop&fm=jpg&h=180&ixlib=php-3.3.1&q=40&w=340&s=c449b9c319e16a8dc1cdb778cdf99d04'>
+<a
+href="/blog/membership-update-december-2022"></a>
+</figure><h3 class="font-size-6 lh120">
+<a
+href="/blog/membership-update-december-2022"><span>Articles:</span><br/>Membership Update - Your 2022 Wrap Up </a></h3>
+</a></div></div><div
+class="cell small-12 medium-6 large-4"><div
+class="hub-related-card">
+<figure
+style="background-size:cover; background-position: center;"
+data-lazy='https://mydmi.imgix.net/articles/main/earnmoremoney.jpg?crop=entropy&fit=crop&fm=jpg&h=180&ixlib=php-3.3.1&q=40&w=340&s=6f812019c31317bd9f07492bc9448988'>
+<a
+href="/blog/8-digital-skills-that-will-increase-your-salary"></a>
+</figure><h3 class="font-size-6 lh120">
+<a
+href="/blog/8-digital-skills-that-will-increase-your-salary"><span>Articles:</span><br/>8 Digital Skills That Will Increase Your Salary</a></h3>
+</a></div></div></div></div></div><div
+class="reveal-overlay" id="cpd_lightbox"><div
+class="reveal"><h3 id="exampleModalHeader11">CPD points available</h3><p>This content is eligible for CPD points. Please <a
+href="https://my.digitalmarketinginstitute.com/auth/login?redirect=blog/ai-in-digital-marketing-the-ultimate-guide">sign in</a> if you wish to track this in your account.</p><div
+class="actions">
+<a
+href="https://my.digitalmarketinginstitute.com/auth/login?redirect=blog/ai-in-digital-marketing-the-ultimate-guide" class="button">Sign in</a></div><button
+class="close-button" data-close aria-label="Close Accessible Modal" type="button">
+<svg
+style="top: 32px; right: 32px; width: 19px; height: 29px;" RoLe="img" aria-label="Close Icon"><use
+xlink:href="/assets/icons/symbol-defs.svg#icon-close-hollow"></use></svg>
+</button></div></div><div
+class="alert animated fadeIn slow delay-2s full-alert-link-wrap" id="cpd_alert" style="display: none">
+<a
+class="full-alert-link" href="https://my.digitalmarketinginstitute.com/auth/login?redirect=blog/ai-in-digital-marketing-the-ultimate-guide">
+<figure>
+<img
+loading="lazy" src="https://digitalmarketinginstitute.com/assets/images/warning.png" alt="warning" class="animated pulse infinite" />
+</figure><div><p>CPD Points Available</p><p>This content is eligible for CPD points. Please <span
+class="alert-link">login</span> if you wish to track this in your account.</p></div>
+</a>
+<a
+href="#" class="close-alert"><svg
+RoLe="img" aria-label="Close Icon"><use
+xlink:href="/assets-hub/icons/symbol-defs.svg?v=0.8.9#icon-close-hollow"></use></svg></a></div><div
+id="gtd-wrapper"></div>
+
+<div
+class="full-modal mobile-nav animated"><header
+role="hub2"><div
+class="logo">
+<a
+href="">
+<img
+loading="lazy" src="/assets-hub/images/logo-small.png" alt="Digital MarketingInstitute logo">
+</a></div><nav></nav><div
+class="user-settings"><ul><li
+class="mobile-menu">
+<a
+href="#" id="close-menu"><svg
+RoLe="img" aria-label="Close Icon"><use
+xlink:href="/assets-hub/icons/symbol-defs.svg?v=0.8.9#icon-close"></use></svg>
+</a></li></ul></div></header><div
+class="mobile-wrapper"><div
+class="mobile-nav"><ul><li
+class="hub-loggedout-only">
+<a
+href="https://my.digitalmarketinginstitute.com/auth/login">Login</a></li><li
+class="hub-loggedout-only">
+<a
+href="https://digitalmarketinginstitute.com/students/courses?view-courses-totf-nav" class="js-trial-link">View Courses</a></li><li
+class="hub-loggedout-only">- - -</li><li>
+<a
+href="https://my.digitalmarketinginstitute.com/courses">Courses</a></li><li>
+<a
+href="https://my.digitalmarketinginstitute.com/resources">Resources</a></li><li
+class="hub-loggedin-only">- - -</li><li
+class="hub-loggedin-only">
+<a
+href="https://my.digitalmarketinginstitute.com/myaccount">My Account</a></li><li
+class="hub-loggedin-only">
+<a
+href="https://my.digitalmarketinginstitute.com/myaccount/password">Change Password</a></li><li
+class="hub-loggedin-only">
+<a
+href="https://my.digitalmarketinginstitute.com/?ACT=70&return=auth%2Fsuccess"><svg
+RoLe="img" aria-label="Logout Icon"><use
+xlink:href="/assets-hub/icons/symbol-defs.svg?v=0.8.9#icon-logout"></use></svg>Logout</a></li></ul></div></div></div>
+<div
+id="js_hub_login_lightbox" class="reveal-overlay"><div
+class="reveal"></div></div><div
+id="search_results_wrapper" class="page-wrap ghost full" style="display: none;"><div
+class="grid-container member-free" id="search_results"><div
+class="grid-x grid-margin-x grid-margin-y align-left"><div
+class="cell small-12"><div
+class="search-spacer"><div><div
+class="font-aeonik-bold font-size-4 txt_richnavy pt40">Search Results</div></div><div
+class="text-right"><p
+class="font-aeonik-bold font-size-4 m0"><a
+href="#" id="js_hide_search_results">✕<span>esc</span></a></p></div></div></div><div
+class="cell small-12"><div
+class="search-spacer"><div><div
+id="search_term" class="font-aeonik-bold dmi-richnavy font-size-5 m0">"search term"</div></div><div
+class="text-right"><div
+id="search_stats" class="font-aeonik-bold font-size-5 m0"></div></div></div></div><div
+class="cell medium-8 large-6" id="search_container"><div
+class="font-size-4 "></div><div
+id="search_loading_overlay"><div
+class="loader"><div
+class="loader-overlay"><div
+class="loader-loader"><div
+class="sk-wave"><div
+class="sk-rect sk-rect1"></div><div
+class="sk-rect sk-rect2"></div><div
+class="sk-rect sk-rect3"></div><div
+class="sk-rect sk-rect4"></div><div
+class="sk-rect sk-rect5"></div></div></div></div></div>
+</div><div
+id="search_hits_wrapper" class="search-hits-wrapper"></div><div
+id="search_pagination"></div></div><div
+class="cell hide-for-small-only medium-4 large-6"><div
+class="grid-x grid-margin-x grid-margin-y align-center pt10 hub_content_6col_out"><div
+class="cell small-12 text-center rad2"><div
+id="js_search_ads" class="course-adverts">
+<a
+class="course-adverts--item" href="https://digitalmarketinginstitute.com/students/courses/professional-diploma-in-digital-marketing">
+<img
+loading="lazy" src="/assets-hub/images/hub/courses-pro.png" alt="DMI Pro Course" style="width: 100%;max-width:100%;">
+</a><a
+class="course-adverts--item" href="https://digitalmarketinginstitute.com/students/courses/postgraduate-diploma-in-digital-marketing">
+<img
+loading="lazy" src="/assets-hub/images/hub/courses-expert.png" alt="DMI Expert Course" style="width: 100%;max-width:100%;">
+</a></div></div></div></div></div></div></div></div>
+<div
+id="footer"><div
+class="grid-container"><div
+class="grid-x align-center"><div
+class="small-12 cell"><div
+class="footer-message"><div><div
+id="js_footer_cta" class="hub-loggedout-only"><h5 id="footer-subscribe-text" class="footer-subscribe font-size-5">Get the latest digital marketing data,<br> insights and toolkits from DMI</h5>
+<a
+id="footer-subscribe-button"
+</a></div></div></div><hr/><div
+class="small-12 cell"><div
+class="footer-wrap">
+<a
+class="logo" href="/resources"><img
+loading="lazy" src="/assets-hub/images/logo-footer.png" alt="Digital Marketing Institute Logo" class="footer-logo"></a>
+<nav
+class="footer-nav"><ul><li>
+<a
+class="parent" href="/resources/courses">Courses</a></li><li>
+<a
+class="parent" href="/resources">Resources</a></li></ul><div><ul><li>
+<a
+href="/blog">Articles</a></li><li>
+<a
+href="/blog-topics">Blog Topics</a></li><li>
+<a
+href="/resources/lessons">Lessons</a></li><li>
+<a
+href="/resources/toolkits">Toolkits</a></li><li>
+<a
+href="/resources/presentations">Presentations</a></li><li>
+<a
+href="/resources/videos">Videos</a></li><li>
+<a
+href="/resources/webinars">Webinars</a></li><li>
+<a
+href="/resources/ebooks">eBooks</a></li><li>
+<a
+href="/resources/podcasts">Podcasts</a></li><li>
+<a
+href="/resources/glossary">Glossary</a></li></ul><ul><li>
+<a
+target="_blank" href="https://digitalmarketinginstitute.com/privacy">Privacy</a></li><li>
+<a
+target="_blank" href="https://digitalmarketinginstitute.com/terms">Terms</a></li></ul></div>
+</nav></div></div></div></div></div><link
+media="screen,print" rel="stylesheet" type="text/css" href="/assets-hub/css/hub.css?6" /><link
+media="screen,print" rel="stylesheet" type="text/css" href="/assets-hub/css/slick.css" /> <script>var site_url = "https://my.digitalmarketinginstitute.com/";
+	var marketo_munchkin_id = '625-GXJ-187';
+	var marketo_url = '//app-lon08.marketo.com';
+	var marketo_on = 'yes';</script> <script src="//app-lon08.marketo.com/js/forms2/js/forms2.min.js"></script> <div
+id="loading-mkto-overlay"></div> <script src="/assets-hub/js/hub.min.js?6"></script> <script src="/assets-hub/js/slick.min.js"></script> <script
+id="cookie-script-js"
+charset="UTF-8"
+src="//ca-eu.cookie-script.com/s/80dc246462dec2896e4eec21978ec5c4.js"></script>  <script>if(woopra_on === "yes"){
+            (function(){
+                    var t,i,e,n=window,o=document,a=arguments,s="script",r=["config","track","identify","visit","push","call","trackForm","trackClick"],c=function(){var t,i=this;for(i._e=[],t=0;r.length>t;t++)(function(t){i[t]=function(){return i._e.push([t].concat(Array.prototype.slice.call(arguments,0))),i}})(r[t])};for(n._w=n._w||{},t=0;a.length>t;t++)n._w[a[t]]=n[a[t]]=n[a[t]]||new c;i=o.createElement(s),i.async=1,i.src="//static.woopra.com/js/w.js",e=o.getElementsByTagName(s)[0],e.parentNode.insertBefore(i,e)
+            })("woopra");
+
+            woopra.config({
+                // cookie_domain: '.digitalmarketinginstitute.com',
+                domain: 'my.digitalmarketinginstitute.com'
+            });
+            
+            woopra.track();
+        }</script>
+
+ <script>window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-45025310-1', 'auto');
+ga('create', 'UA-121819362-1', 'auto', 'mydmi_tracker');
+
+
+
+if(typeof fakePage !== 'undefined') {
+	ga('set', 'page', fakePage);
+	ga('send', 'pageview');
+	ga('mydmi_tracker.set', 'page', fakePage);
+	ga('mydmi_tracker.send', 'pageview');
+} else {
+	ga('send', 'pageview');
+	ga('mydmi_tracker.send', 'pageview');
+}
+
+
+	// Velocidi Page View Event
+	pcdp('event', 'track', {
+		'clientId': 'digitalmarketinginstitute',
+		'siteId': 'digitalmarketinginstitute.com',
+		'type': 'pageView',
+		'title': 'AI in Digital Marketing - The Ultimate Guide | Digital Marketing Institute',
+	});</script> <script async 
+	type="text/plain"	
+	data-cookiescript="accepted"
+	data-cookiecategory="targeting" 
+	src='https://www.google-analytics.com/analytics.js'></script>  <script async 
+	type="text/plain"
+	data-cookiescript="accepted"
+    data-cookiecategory="targeting"
+	src="https://www.googletagmanager.com/gtag/js?id=G-PLDN0ZB45P"></script> <script>window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PLDN0ZB45P');</script> <script id="marketo_noid"
+    type="text/plain"
+    strategy="lazyOnload"
+    data-cookiescript="accepted"
+    data-cookiecategory="performance">(function() {
+        var didInit = false;
+        function initMunchkin() {
+            if(didInit === false) {
+                didInit = true;
+                Munchkin.init('625-GXJ-187'); 
+            }
+        }
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = '//munchkin.marketo.net/munchkin.js';
+        s.onreadystatechange = function() {
+            if (this.readyState == 'complete' || this.readyState == 'loaded') {initMunchkin();}
+        };
+        s.onload = initMunchkin;
+        document.getElementsByTagName('head')[0].appendChild(s);
+    })();</script> <script 
+    strategy="lazyOnload"
+    type="text/plain"
+    data-cookiescript="accepted"
+    data-cookiecategory="performance"
+    src="https://tracker.gaconnector.com/gaconnector.js"></script> <script
+        id="rudderstack-tracking-js"
+        strategy="lazyOnload"
+        type="text/plain"
+        data-cookiescript="accepted"
+        data-cookiecategory="performance">// Stashed Tracking
+        
+
+        // Vimeo Event
+        
+            document.addEventListener('DOMContentLoaded', event => {
+
+                if (typeof window['rudderanalytics'] === 'undefined') return null
+                const iframe = document.querySelector('iframe');
+                const player = new Vimeo.Player(iframe);
+                var playCount = 0,
+                    playerDuration,
+                    playerCurrentTime,
+                    playerTitle;
+                player.getVideoTitle().then(function(title) {playerTitle = title});
+                player.getDuration().then(function(duration) {playerDuration = duration});
+                
+                player.on('play', function() {
+                    player.getCurrentTime().then(function(seconds) {playerCurrentTime = seconds});
+                    if(playCount === 0) {
+                        rudderanalytics.track('Video Playback Started', {
+                            position: playerCurrentTime,
+                            total_length: playerDuration,
+                        });
+                    } else {
+                        rudderanalytics.track('Video Playback Resumed', {
+                            position: playerCurrentTime,
+                            total_length: playerDuration,
+                        });
+                    }
+                    playCount++;
+                });
+                
+                player.on('pause', function() {
+                    player.getCurrentTime().then(function(seconds) {playerCurrentTime = seconds});
+                    rudderanalytics.track('Video Playback Paused', {
+                        position: playerCurrentTime,
+                        total_length: playerDuration,
+                    });
+                });
+                
+                player.on('ended', function() {
+                    player.getCurrentTime().then(function(seconds) {playerCurrentTime = seconds});
+                    rudderanalytics.track('Video Playback Completed', {
+                        position: playerCurrentTime,
+                        total_length: playerDuration,
+                    });
+                });
+            });</script> 
+<div
+id="login-modal-wrapper"></div></body></html>
